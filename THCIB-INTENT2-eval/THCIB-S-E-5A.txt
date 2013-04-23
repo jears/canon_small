@@ -1,0 +1,2136 @@
+<SYSDESC>THUCIB-S-E-5A.txt</SYSDESC>
+0001;0;403b retirement;01;0;THCIB-S-E-5A
+0001;0;403b vs 401k;02;0;THCIB-S-E-5A
+0001;0;403b plan;03;0;THCIB-S-E-5A
+0001;0;403b contribution limits;04;0;THCIB-S-E-5A
+0001;0;403b rollover;05;0;THCIB-S-E-5A
+0001;0;403(b) information;06;0;THCIB-S-E-5A
+0001;0;403b calculator;07;0;THCIB-S-E-5A
+0001;0;403b regulations;08;0;THCIB-S-E-5A
+0001;0;403 b. definition;09;0;THCIB-S-E-5A
+0001;0;tiaa-cref - 403(b) plans;10;0;THCIB-S-E-5A
+0001;0;403b withdrawal rules;11;0;THCIB-S-E-5A
+0001;0;benefits - 403(b) plan;12;0;THCIB-S-E-5A
+0001;0;403(b) - wikipedia, the free encyclopedia;13;0;THCIB-S-E-5A
+0001;0;why make 403b contributions;14;0;THCIB-S-E-5A
+0001;0;403b compare;15;0;THCIB-S-E-5A
+0001;0;403b.com;16;0;THCIB-S-E-5A
+0001;0;irs 403 b;17;0;THCIB-S-E-5A
+0001;0;403b rule;18;0;THCIB-S-E-5A
+0001;0;403(b) plan checklist;19;0;THCIB-S-E-5A
+0001;0;fidelity 403 b retirement plan;20;0;THCIB-S-E-5A
+0001;0;roth 403(b):;21;0;THCIB-S-E-5A
+0001;0;403b -- opening a new account;22;0;THCIB-S-E-5A
+0001;0;403(b) plans in a nutshell;23;0;THCIB-S-E-5A
+0001;0;403(b) plans - nationwide;24;0;THCIB-S-E-5A
+0001;0;403b withdrawal;25;0;THCIB-S-E-5A
+0001;0;tax-deferred 403(b) plan;26;0;THCIB-S-E-5A
+0001;0;the standard - 403(b);27;0;THCIB-S-E-5A
+0001;0;403b wise;28;0;THCIB-S-E-5A
+0001;0;403b staying compliant with 403(b) plans;29;0;THCIB-S-E-5A
+0001;0;403b bankruptcy protection before 2005;30;0;THCIB-S-E-5A
+0001;0;403(b) plan resource center;31;0;THCIB-S-E-5A
+0001;0;403(b) plan definition | investopedia;32;0;THCIB-S-E-5A
+0001;0;comparison of 457 and 403b plans;33;0;THCIB-S-E-5A
+0001;0;faq on 403(b) plan form 5500;34;0;THCIB-S-E-5A
+0001;0;403(b) plan: distributions | investopedia;35;0;THCIB-S-E-5A
+0001;0;403(b) plans - ultimate guide to retirement;36;0;THCIB-S-E-5A
+0001;0;403b early withdrawal;37;0;THCIB-S-E-5A
+0001;0;tax-deferred 403(b) plan summary plan description;38;0;THCIB-S-E-5A
+0001;0;frequently asked questions - the 403(b);39;0;THCIB-S-E-5A
+0001;0;for more information, contact us at 403b;40;0;THCIB-S-E-5A
+0001;0;an online guide to 403b plans and 403b rollovers;41;0;THCIB-S-E-5A
+0001;0;investopedia 403b plan;42;0;THCIB-S-E-5A
+0001;0;benefits | retirement | csu 403(b) tsa program;43;0;THCIB-S-E-5A
+0001;0;90 24 transfers 403b;44;0;THCIB-S-E-5A
+0001;0;nbs 403(b) plan information portal;45;0;THCIB-S-E-5A
+0002;0;angular cheilitis picture;01;0;THCIB-S-E-5A
+0002;0;angular cheilitis treatment;02;0;THCIB-S-E-5A
+0002;0;angular cheilitis cure;03;0;THCIB-S-E-5A
+0002;0;angular cheilitis home remedy;04;0;THCIB-S-E-5A
+0002;0;pictures of angular cheilitis;05;0;THCIB-S-E-5A
+0002;0;angular cheilitis causes;06;0;THCIB-S-E-5A
+0002;0;angular cheilitis hiv;07;0;THCIB-S-E-5A
+0002;0;angular cheilitis - wikipedia, the free encyclopedia;08;0;THCIB-S-E-5A
+0002;0;angular cheilitis emedicine;09;0;THCIB-S-E-5A
+0002;0;angular cheilitis symptoms;10;0;THCIB-S-E-5A
+0002;0;angular cheilitis or cracks at corners of mouth;11;0;THCIB-S-E-5A
+0002;0;treat angular cheilitis;12;0;THCIB-S-E-5A
+0002;0;angular cheilitis remedies;13;0;THCIB-S-E-5A
+0002;0;lip corner sores and angular cheilitis;14;0;THCIB-S-E-5A
+0002;0;angular cheilitis vitamin;15;0;THCIB-S-E-5A
+0002;0;candidal angular cheilitis;16;0;THCIB-S-E-5A
+0002;0;angular cheilitis - general practice notebook;17;0;THCIB-S-E-5A
+0002;0;latest news release from angularcheilitis-cure;18;0;THCIB-S-E-5A
+0002;0;angular cheilitis contagious;19;0;THCIB-S-E-5A
+0002;0;angular cheilitis solution;20;0;THCIB-S-E-5A
+0002;0;angular cheilitis stress;21;0;THCIB-S-E-5A
+0002;0;angular cheilitis and cheilitis;22;0;THCIB-S-E-5A
+0002;0;angular cheilitis candidiasis;23;0;THCIB-S-E-5A
+0002;0;angular cheilitis accutane - gravatar profile;24;0;THCIB-S-E-5A
+0002;0;lotrimin or lamisil for angular cheilitis;25;0;THCIB-S-E-5A
+0002;0;angular cheilitis webmd;26;0;THCIB-S-E-5A
+0002;0;angular cheilitis mayo clinic;27;0;THCIB-S-E-5A
+0002;0;over the counter angular cheilitis;28;0;THCIB-S-E-5A
+0002;0;common angular cheilitis causes;29;0;THCIB-S-E-5A
+0002;0;common q a about angular cheilitis;30;0;THCIB-S-E-5A
+0002;0;file:angular cheilitis.jpg - wikipedia, the free encyclopedia;31;0;THCIB-S-E-5A
+0002;0;angular cheilitis foundation;32;0;THCIB-S-E-5A
+0002;0;angular cheilitis treatment webmd;33;0;THCIB-S-E-5A
+0002;0;methods to cure the angular cheilitis condition;34;0;THCIB-S-E-5A
+0002;0;angular cheilitis free;35;0;THCIB-S-E-5A
+0002;0;angular cheilitis | define angular cheilitis at dictionary.com;36;0;THCIB-S-E-5A
+0002;0;angular cheilitis causes angular cheilitis center;37;0;THCIB-S-E-5A
+0002;0;angular chelitis symptoms angular cheilitis center;38;0;THCIB-S-E-5A
+0002;0;angular+cheilitis - medical dictionary - the free dictionary;39;0;THCIB-S-E-5A
+0002;0;angular cheilitis home remedy free;40;0;THCIB-S-E-5A
+0002;0;angular cheilitis mayo;41;0;THCIB-S-E-5A
+0002;0;angular cheilitis information;42;0;THCIB-S-E-5A
+0002;0;angular cheilitis natural;43;0;THCIB-S-E-5A
+0002;0;antibiotics for angular cheilitis - angular cheilitis antibiotics;44;0;THCIB-S-E-5A
+0002;0;angular cheilitis various causes and treatments options of cheilitis;45;0;THCIB-S-E-5A
+0003;0;pocono pennsylvania;01;0;THCIB-S-E-5A
+0003;0;pocono -2;02;0;THCIB-S-E-5A
+0003;0;logano wins at pocono;03;0;THCIB-S-E-5A
+0003;0;poconos hotels;04;0;THCIB-S-E-5A
+0003;0;pocono raceway;05;0;THCIB-S-E-5A
+0003;0;pocono resorts;06;0;THCIB-S-E-5A
+0003;0;pocono township;07;0;THCIB-S-E-5A
+0003;0;poconos attractions;08;0;THCIB-S-E-5A
+0003;0;pocono mountains;09;0;THCIB-S-E-5A
+0003;0;pocono lake;10;0;THCIB-S-E-5A
+0003;0;2009 pocono 500;11;0;THCIB-S-E-5A
+0003;0;pocono downs;12;0;THCIB-S-E-5A
+0003;0;the poconos mountain region;13;0;THCIB-S-E-5A
+0003;0;wi-fi north pocono;14;0;THCIB-S-E-5A
+0003;0;pocono medical center;15;0;THCIB-S-E-5A
+0003;0;poconohealthsystem;16;0;THCIB-S-E-5A
+0003;0;pocono record;17;0;THCIB-S-E-5A
+0003;0;pocono mountain school district;18;0;THCIB-S-E-5A
+0003;0;pocono palace;19;0;THCIB-S-E-5A
+0003;0;the poconos - wikipedia, the free encyclopedia;20;0;THCIB-S-E-5A
+0003;0;pocono biological laboratories;21;0;THCIB-S-E-5A
+0003;0;big pocono;22;0;THCIB-S-E-5A
+0003;0;uss pocono (agc-16)|uss ''pocono'' (agc-16);23;0;THCIB-S-E-5A
+0003;0;pocono creek;24;0;THCIB-S-E-5A
+0003;0;pocono family ymca events;25;0;THCIB-S-E-5A
+0003;0;pocono greyhound;26;0;THCIB-S-E-5A
+0003;0;mount pocono;27;0;THCIB-S-E-5A
+0003;0;pocono manor;28;0;THCIB-S-E-5A
+0003;0;pocono qualifying;29;0;THCIB-S-E-5A
+0003;0;pocono rental;30;0;THCIB-S-E-5A
+0003;0;pocono raceway address;31;0;THCIB-S-E-5A
+0003;0;poconos all inclusive;32;0;THCIB-S-E-5A
+0003;0;pocono wiki;33;0;THCIB-S-E-5A
+0003;0;the poconos;34;0;THCIB-S-E-5A
+0003;0;pocono snow;35;0;THCIB-S-E-5A
+0003;0;pocono real estate;36;0;THCIB-S-E-5A
+0003;0;pocono 500 (indycar);37;0;THCIB-S-E-5A
+0003;0;mohegan sun at pocono downs;38;0;THCIB-S-E-5A
+0003;0;the poconos lake region;39;0;THCIB-S-E-5A
+0003;0;north pocono school district;40;0;THCIB-S-E-5A
+0003;0;pocono center;41;0;THCIB-S-E-5A
+0003;0;pocono candle;42;0;THCIB-S-E-5A
+0003;0;the pocono record;43;0;THCIB-S-E-5A
+0003;0;pocono mountain west;44;0;THCIB-S-E-5A
+0003;0;caesars pocono resorts;45;0;THCIB-S-E-5A
+0004;0;figs engineering;01;0;THCIB-S-E-5A
+0004;0;canning figs;02;0;THCIB-S-E-5A
+0004;0;fresh figs;03;0;THCIB-S-E-5A
+0004;0;figs nutrition;04;0;THCIB-S-E-5A
+0004;0;figs - guide to figs - all about figs;05;0;THCIB-S-E-5A
+0004;0;sig figs;06;0;THCIB-S-E-5A
+0004;0;strangling figs;07;0;THCIB-S-E-5A
+0004;0;figs boston;08;0;THCIB-S-E-5A
+0004;0;figs charlestown;09;0;THCIB-S-E-5A
+0004;0;figs health benefits;10;0;THCIB-S-E-5A
+0004;0;of figs;11;0;THCIB-S-E-5A
+0004;0;honeyed figs;12;0;THCIB-S-E-5A
+0004;0;figs ties;13;0;THCIB-S-E-5A
+0004;0;figs grille;14;0;THCIB-S-E-5A
+0004;0;figs and olives;15;0;THCIB-S-E-5A
+0004;0;marseille figs;16;0;THCIB-S-E-5A
+0004;0;how to eat figs;17;0;THCIB-S-E-5A
+0004;0;fig - simple english wikipedia, the free encyclopedia;18;0;THCIB-S-E-5A
+0004;0;moldy figs;19;0;THCIB-S-E-5A
+0004;0;drying figs;20;0;THCIB-S-E-5A
+0004;0;figs philadelphia;21;0;THCIB-S-E-5A
+0004;0;figs and ginger;22;0;THCIB-S-E-5A
+0004;0;figs and bri;23;0;THCIB-S-E-5A
+0004;0;weak figs;24;0;THCIB-S-E-5A
+0004;0;figs newtown ct;25;0;THCIB-S-E-5A
+0004;0;cactus figs;26;0;THCIB-S-E-5A
+0004;0;mrs. figs' bookworm camarillo bookstore;27;0;THCIB-S-E-5A
+0004;0;figs in the bible;28;0;THCIB-S-E-5A
+0004;0;figs 101;29;0;THCIB-S-E-5A
+0004;0;figs nutritional value;30;0;THCIB-S-E-5A
+0004;0;figs: home;31;0;THCIB-S-E-5A
+0004;0;wrestling figs;32;0;THCIB-S-E-5A
+0004;0;there are figs and there are figs;33;0;THCIB-S-E-5A
+0004;0;rubber figs;34;0;THCIB-S-E-5A
+0004;0;figs boston menu;35;0;THCIB-S-E-5A
+0004;0;figs charlestown menu;36;0;THCIB-S-E-5A
+0004;0;eating figs;37;0;THCIB-S-E-5A
+0004;0;or of figs;38;0;THCIB-S-E-5A
+0004;0;stuffed figs;39;0;THCIB-S-E-5A
+0004;0;peeling figs for julius;40;0;THCIB-S-E-5A
+0004;0;figs restaurant;41;0;THCIB-S-E-5A
+0004;0;and figs;42;0;THCIB-S-E-5A
+0004;0;bay of figs;43;0;THCIB-S-E-5A
+0004;0;how to dry figs;44;0;THCIB-S-E-5A
+0004;0;mouldy figs;45;0;THCIB-S-E-5A
+0005;0;last supper painting tickets;01;0;THCIB-S-E-5A
+0005;0;the picture of last supper painting 50 off;02;0;THCIB-S-E-5A
+0005;0;last supper painting milan;03;0;THCIB-S-E-5A
+0005;0;the last supper paintings;04;0;THCIB-S-E-5A
+0005;0;who is in the last supper painting;05;0;THCIB-S-E-5A
+0005;0;last supper paintings for sale;06;0;THCIB-S-E-5A
+0005;0;"painting canvas last supper" :;07;0;THCIB-S-E-5A
+0005;0;last supper painting secrets;08;0;THCIB-S-E-5A
+0005;0;leonardo da vinci the last supper painting;09;0;THCIB-S-E-5A
+0005;0;where is the last supper painting at;10;0;THCIB-S-E-5A
+0005;0;painting last supper for sale;11;0;THCIB-S-E-5A
+0005;0;leonardo da vinci last supper painting;12;0;THCIB-S-E-5A
+0005;0;painting last supper milan;13;0;THCIB-S-E-5A
+0005;0;da vinci last supper painting;14;0;THCIB-S-E-5A
+0005;0;history of the last supper painting;15;0;THCIB-S-E-5A
+0005;0;ownapainting da vinci the last supper;16;0;THCIB-S-E-5A
+0005;0;how many people are in the last supper painting;17;0;THCIB-S-E-5A
+0005;0;last supper painting canvas prints - fine art america;18;0;THCIB-S-E-5A
+0005;0;last supper painting with names;19;0;THCIB-S-E-5A
+0005;0;painting of jesus at the last supper;20;0;THCIB-S-E-5A
+0005;0;last supper painting jesus;21;0;THCIB-S-E-5A
+0005;0;painting last supper located;22;0;THCIB-S-E-5A
+0005;0;is there a woman in the last supper painting;23;0;THCIB-S-E-5A
+0005;0;last supper painting online;24;0;THCIB-S-E-5A
+0005;0;original painting of last supper;25;0;THCIB-S-E-5A
+0005;0;painting last supper today;26;0;THCIB-S-E-5A
+0005;0;all the last supper paintings;27;0;THCIB-S-E-5A
+0005;0;where is judas in the last supper painting;28;0;THCIB-S-E-5A
+0005;0;last supper painting museum;29;0;THCIB-S-E-5A
+0005;0;risotti painting last supper;30;0;THCIB-S-E-5A
+0005;0;last supper: new style last supper paintings;31;0;THCIB-S-E-5A
+0005;0;secrets in the last supper painting;32;0;THCIB-S-E-5A
+0005;0;last supper painting christ;33;0;THCIB-S-E-5A
+0005;0;painting of the last supper facts;34;0;THCIB-S-E-5A
+0005;0;last supper leonardo painting milan;35;0;THCIB-S-E-5A
+0005;0;paintings of the last supper from different eras;36;0;THCIB-S-E-5A
+0005;0;who is in da vinci's painting the last supper;37;0;THCIB-S-E-5A
+0006;0;university of phoenix accreditation;01;0;THCIB-S-E-5A
+0006;0;university of phoenix address;02;0;THCIB-S-E-5A
+0006;0;university of phoenix jobs;03;0;THCIB-S-E-5A
+0006;0;university of phoenix login;04;0;THCIB-S-E-5A
+0006;0;university of phoenix - online;05;0;THCIB-S-E-5A
+0006;0;university of phoenix stadium;06;0;THCIB-S-E-5A
+0006;0;university of phoenix financial aid;07;0;THCIB-S-E-5A
+0006;0;university of phoenix degrees;08;0;THCIB-S-E-5A
+0006;0;university of phoenix ecampus;09;0;THCIB-S-E-5A
+0006;0;university of phoenix, oakland learning center;10;0;THCIB-S-E-5A
+0006;0;university of phoenix - wikipedia, the free encyclopedia;11;0;THCIB-S-E-5A
+0006;0;university of phoenix phoenix hohokam campus phoenix;12;0;THCIB-S-E-5A
+0006;0;university of phoenix alumni;13;0;THCIB-S-E-5A
+0006;0;university of phoenix in phoenix, az;14;0;THCIB-S-E-5A
+0006;0;university of phoenix scam;15;0;THCIB-S-E-5A
+0006;0;university of phoenix student web;16;0;THCIB-S-E-5A
+0006;0;university of phoenix - education;17;0;THCIB-S-E-5A
+0006;0;university of phoenix tuition;18;0;THCIB-S-E-5A
+0006;0;university of phoenix students;19;0;THCIB-S-E-5A
+0006;0;university of phoenix student portal;20;0;THCIB-S-E-5A
+0006;0;university of phoenix axia university;21;0;THCIB-S-E-5A
+0006;0;university of phoenix phoenix hohokam campus;22;0;THCIB-S-E-5A
+0006;0;university of phoenix reviews;23;0;THCIB-S-E-5A
+0006;0;university of phoenix controversy;24;0;THCIB-S-E-5A
+0006;0;university of phoenix employment;25;0;THCIB-S-E-5A
+0006;0;university of phoenix - classesandcareers.com;26;0;THCIB-S-E-5A
+0006;0;home - university of phoenix;27;0;THCIB-S-E-5A
+0006;0;university of phoenix organization and administration;28;0;THCIB-S-E-5A
+0006;0;university of phoenix has a new student;29;0;THCIB-S-E-5A
+0006;0;hotels near university of phoenix stadium glendale az;30;0;THCIB-S-E-5A
+0006;0;learn more about university of phoenix;31;0;THCIB-S-E-5A
+0006;0;university of phoenix student website;32;0;THCIB-S-E-5A
+0006;0;university of phoenix - pittsburgh;33;0;THCIB-S-E-5A
+0006;0;university of phoenix stadium populous;34;0;THCIB-S-E-5A
+0006;0;university of phoenix university of phoenix student web;35;0;THCIB-S-E-5A
+0006;0;university of phoenix online degrees;36;0;THCIB-S-E-5A
+0006;0;axia college of university of phoenix university of phoenix;37;0;THCIB-S-E-5A
+0006;0;phoenix hohokam az university of phoenix;38;0;THCIB-S-E-5A
+0006;0;university of phoenix campuses;39;0;THCIB-S-E-5A
+0006;0;university of phoenix 4;40;0;THCIB-S-E-5A
+0006;0;university of phoenix faculty;41;0;THCIB-S-E-5A
+0006;0;university of phoenix university of phoenix student login;42;0;THCIB-S-E-5A
+0006;0;university of phoenix - latpa;43;0;THCIB-S-E-5A
+0007;0;the beatles rock band game;01;0;THCIB-S-E-5A
+0007;0;the beatles: rock band - xbox;02;0;THCIB-S-E-5A
+0007;0;the beatles: rock band pre-order club;03;0;THCIB-S-E-5A
+0007;0;the beatles rock band dlc;04;0;THCIB-S-E-5A
+0007;0;the beatles rock band wii;05;0;THCIB-S-E-5A
+0007;0;the beatles rock band cheats;06;0;THCIB-S-E-5A
+0007;0;the beatles rock band songs;07;0;THCIB-S-E-5A
+0007;0;the beatles: rock band - wikipedia, the free encyclopedia;08;0;THCIB-S-E-5A
+0007;0;the beatles rock band song list;09;0;THCIB-S-E-5A
+0007;0;harmonix 'the beatles: rock band' outro;10;0;THCIB-S-E-5A
+0007;0;the beatles rock band soundtrack;11;0;THCIB-S-E-5A
+0007;0;latest the beatles: rock band updates;12;0;THCIB-S-E-5A
+0007;0;the beatles rock band xbox 360 bundle;13;0;THCIB-S-E-5A
+0007;0;the beatles rock band on youtube;14;0;THCIB-S-E-5A
+0007;0;the beatles rock band guitar;15;0;THCIB-S-E-5A
+0007;0;the beatles rock band achievements;16;0;THCIB-S-E-5A
+0007;0;the beatles rock band 2;17;0;THCIB-S-E-5A
+0007;0;the beatles: rock band - wikipedia;18;0;THCIB-S-E-5A
+0007;0;the beatles: rock band's newest trailer and track list;19;0;THCIB-S-E-5A
+0007;0;harmonix "the beatles: rock band" cinematic on vimeo;20;0;THCIB-S-E-5A
+0007;0;the beatles rockband review;21;0;THCIB-S-E-5A
+0007;0;the beatles: rock band news;22;0;THCIB-S-E-5A
+0007;0;the beatles rock band instruments;23;0;THCIB-S-E-5A
+0007;0;the beatles rock band intro;24;0;THCIB-S-E-5A
+0007;0;pictures of the beatles rock band;25;0;THCIB-S-E-5A
+0007;0;the beatles rock band achievement guide;26;0;THCIB-S-E-5A
+0007;0;the beatles rock band bound;27;0;THCIB-S-E-5A
+0007;0;harmonix 'the beatles: rock band' outro cinematic on vimeo;28;0;THCIB-S-E-5A
+0007;0;the beatles rock band sales;29;0;THCIB-S-E-5A
+0007;0;giles martin on making the beatles: rock band;30;0;THCIB-S-E-5A
+0007;0;the beatles rock band wii bundle;31;0;THCIB-S-E-5A
+0007;0;the beatles rock band reception;32;0;THCIB-S-E-5A
+0007;0;the beatles rock band music production;33;0;THCIB-S-E-5A
+0007;0;the beatles rockband outro on vimeo;34;0;THCIB-S-E-5A
+0007;0;the beatles rock band gameplay;35;0;THCIB-S-E-5A
+0007;0;"the beatles: rock band to feature harmonizing vocals";36;0;THCIB-S-E-5A
+0007;0;the beatles rock band premium bundle;37;0;THCIB-S-E-5A
+0007;0;the beatles rock band e3 reception;38;0;THCIB-S-E-5A
+0007;0;the beatles rock band instrument peripherals;39;0;THCIB-S-E-5A
+0007;0;the beatles rock band music;40;0;THCIB-S-E-5A
+0007;0;digging deeper into the beatles: rock band's career mode;41;0;THCIB-S-E-5A
+0007;0;the beatles rock band modes;42;0;THCIB-S-E-5A
+0007;0;the beatles rock band downloadable content;43;0;THCIB-S-E-5A
+0007;0;the beatles rock band ps3;44;0;THCIB-S-E-5A
+0007;0;the beatles: rock band - the beatles;45;0;THCIB-S-E-5A
+0008;0;septic tank system design;01;0;THCIB-S-E-5A
+0008;0;nh septic system design construction, septic leach field design;02;0;THCIB-S-E-5A
+0008;0;septic system design drainfield size;03;0;THCIB-S-E-5A
+0008;0;55 gallon septic system design;04;0;THCIB-S-E-5A
+0008;0;septic system design manual;05;0;THCIB-S-E-5A
+0008;0;septic system design texas;06;0;THCIB-S-E-5A
+0008;0;septic system design soil;07;0;THCIB-S-E-5A
+0008;0;design for septic system;08;0;THCIB-S-E-5A
+0008;0;septic system design cost;09;0;THCIB-S-E-5A
+0008;0;septic system design installation;10;0;THCIB-S-E-5A
+0008;0;septic system designs drainfield;11;0;THCIB-S-E-5A
+0008;0;design of septic system in ontario;12;0;THCIB-S-E-5A
+0008;0;septic system design drawings;13;0;THCIB-S-E-5A
+0008;0;septic system designers;14;0;THCIB-S-E-5A
+0008;0;septic system design requirements;15;0;THCIB-S-E-5A
+0008;0;septic system design nh;16;0;THCIB-S-E-5A
+0008;0;septic system design services;17;0;THCIB-S-E-5A
+0008;0;septic system permits and designs;18;0;THCIB-S-E-5A
+0008;0;how to design septic systems;19;0;THCIB-S-E-5A
+0008;0;septic system design maine;20;0;THCIB-S-E-5A
+0008;0;septic system design software;21;0;THCIB-S-E-5A
+0008;0;design septic system dog;22;0;THCIB-S-E-5A
+0008;0;septic system design nj;23;0;THCIB-S-E-5A
+0008;0;septic systems principles and design;24;0;THCIB-S-E-5A
+0008;0;design for new and expanding wastewater septic systems;25;0;THCIB-S-E-5A
+0008;0;septic system designs are required by state code;26;0;THCIB-S-E-5A
+0008;0;pressure typeseptic system design (pressure distribution systems);27;0;THCIB-S-E-5A
+0008;0;septic system designs incorporated 60097;28;0;THCIB-S-E-5A
+0008;0;septic system design tires virginia;29;0;THCIB-S-E-5A
+0008;0;septic system design basics;30;0;THCIB-S-E-5A
+0008;0;best septic system design;31;0;THCIB-S-E-5A
+0008;0;septic system design in california;32;0;THCIB-S-E-5A
+0008;0;septic system design and installation;33;0;THCIB-S-E-5A
+0008;0;septic system design in texas;34;0;THCIB-S-E-5A
+0008;0;design of mound septic system;35;0;THCIB-S-E-5A
+0008;0;home septic system design;36;0;THCIB-S-E-5A
+0008;0;cost of septic system design;37;0;THCIB-S-E-5A
+0008;0;residential septic system design;38;0;THCIB-S-E-5A
+0008;0;homemade septic system designs;39;0;THCIB-S-E-5A
+0008;0;septic system design in ontario;40;0;THCIB-S-E-5A
+0008;0;engineer design septic system;41;0;THCIB-S-E-5A
+0008;0;design: contract with a septic system designer;42;0;THCIB-S-E-5A
+0008;0;septic system design guidelines;43;0;THCIB-S-E-5A
+0008;0;septic system designers nh;44;0;THCIB-S-E-5A
+0008;0;septic system design: c.m. kristman septic services inc.;45;0;THCIB-S-E-5A
+0009;0;porterville mls;01;0;THCIB-S-E-5A
+0009;0;porterville fair;02;0;THCIB-S-E-5A
+0009;0;porterville recorder;03;0;THCIB-S-E-5A
+0009;0;porterville ca;04;0;THCIB-S-E-5A
+0009;0;porterville, california 2010;05;0;THCIB-S-E-5A
+0009;0;porterville unified school district;06;0;THCIB-S-E-5A
+0009;0;city of porterville;07;0;THCIB-S-E-5A
+0009;0;porterville high school;08;0;THCIB-S-E-5A
+0009;0;porterville colleges;09;0;THCIB-S-E-5A
+0009;0;porterville, texas;10;0;THCIB-S-E-5A
+0009;0;porterville news;11;0;THCIB-S-E-5A
+0009;0;porterville hotel;12;0;THCIB-S-E-5A
+0009;0;porterville weather;13;0;THCIB-S-E-5A
+0009;0;porterville adult school;14;0;THCIB-S-E-5A
+0009;0;porterville - wikipedia, the free encyclopedia;15;0;THCIB-S-E-5A
+0009;0;porterville, utah;16;0;THCIB-S-E-5A
+0009;0;get free website flash clock for porterville;17;0;THCIB-S-E-5A
+0009;0;porterville, california churches;18;0;THCIB-S-E-5A
+0009;0;porterville (song);19;0;THCIB-S-E-5A
+0009;0;porterville police department;20;0;THCIB-S-E-5A
+0009;0;porterville, western cape;21;0;THCIB-S-E-5A
+0009;0;porterville college athletics;22;0;THCIB-S-E-5A
+0009;0;porterville airport;23;0;THCIB-S-E-5A
+0009;0;casino porterville;24;0;THCIB-S-E-5A
+0009;0;porterville, california;25;0;THCIB-S-E-5A
+0009;0;porterville courthouse;26;0;THCIB-S-E-5A
+0009;0;porterville hospital;27;0;THCIB-S-E-5A
+0009;0;porterville, california education;28;0;THCIB-S-E-5A
+0009;0;porterville transit;29;0;THCIB-S-E-5A
+0009;0;sandersporterville.k12.ca.us;30;0;THCIB-S-E-5A
+0009;0;porterville jobs;31;0;THCIB-S-E-5A
+0009;0;galaxy 9 porterville;32;0;THCIB-S-E-5A
+0009;0;porterville.com;33;0;THCIB-S-E-5A
+0009;0;porterville map;34;0;THCIB-S-E-5A
+0009;0;porterville, mississippi;35;0;THCIB-S-E-5A
+0009;0;porterville adult day services;36;0;THCIB-S-E-5A
+0009;0;porterville living;37;0;THCIB-S-E-5A
+0009;0;porterville, utah porterville church;38;0;THCIB-S-E-5A
+0009;0;porterville online;39;0;THCIB-S-E-5A
+0009;0;porterville, california media;40;0;THCIB-S-E-5A
+0009;0;videos for porterville;41;0;THCIB-S-E-5A
+0009;0;porterville police department contacts;42;0;THCIB-S-E-5A
+0009;0;obituaries and guest books for the porterville recorder;43;0;THCIB-S-E-5A
+0009;0;porterville accommodation;44;0;THCIB-S-E-5A
+0009;0;porterville college : recorderonline.com;45;0;THCIB-S-E-5A
+0010;0;grilling barbecue;01;0;THCIB-S-E-5A
+0010;0;grilling chicken;02;0;THCIB-S-E-5A
+0010;0;grilling recipe;03;0;THCIB-S-E-5A
+0010;0;grilling accessories;04;0;THCIB-S-E-5A
+0010;0;charcoal grilling;05;0;THCIB-S-E-5A
+0010;0;grilling tips;06;0;THCIB-S-E-5A
+0010;0;grilling salmon;07;0;THCIB-S-E-5A
+0010;0;indirect grilling;08;0;THCIB-S-E-5A
+0010;0;grilling vegetables;09;0;THCIB-S-E-5A
+0010;0;grilling - wikipedia, the free encyclopedia;10;0;THCIB-S-E-5A
+0010;0;grilling pork chops;11;0;THCIB-S-E-5A
+0010;0;memorial day grilling recipes;12;0;THCIB-S-E-5A
+0010;0;grilling steak;13;0;THCIB-S-E-5A
+0010;0;living grilling;14;0;THCIB-S-E-5A
+0010;0;grilling ideas;15;0;THCIB-S-E-5A
+0010;0;lean mean fat reducing grilling machine;16;0;THCIB-S-E-5A
+0010;0;grilling corn;17;0;THCIB-S-E-5A
+0010;0;grilling it;18;0;THCIB-S-E-5A
+0010;0;grilling toaster;19;0;THCIB-S-E-5A
+0010;0;grilling ribs;20;0;THCIB-S-E-5A
+0010;0;grilling lobsters;21;0;THCIB-S-E-5A
+0010;0;grilling out;22;0;THCIB-S-E-5A
+0010;0;gas grilling;23;0;THCIB-S-E-5A
+0010;0;plank grilling;24;0;THCIB-S-E-5A
+0010;0;broiling;25;0;THCIB-S-E-5A
+0010;0;grilling potatoes;26;0;THCIB-S-E-5A
+0010;0;grilling grill-braising;27;0;THCIB-S-E-5A
+0010;0;get grilling;28;0;THCIB-S-E-5A
+0010;0;videos for grilling;29;0;THCIB-S-E-5A
+0010;0;summer grilling;30;0;THCIB-S-E-5A
+0010;0;george foreman lean mean fat-reducing grilling machine;31;0;THCIB-S-E-5A
+0010;0;grilling corn on the cob;32;0;THCIB-S-E-5A
+0010;0;grilling bobby;33;0;THCIB-S-E-5A
+0010;0;grilling of the press;34;0;THCIB-S-E-5A
+0010;0;grilling in the us;35;0;THCIB-S-E-5A
+0010;0;grilling asparagus;36;0;THCIB-S-E-5A
+0010;0;outdoor grilling recipes;37;0;THCIB-S-E-5A
+0010;0;grilling overhead grilling;38;0;THCIB-S-E-5A
+0010;0;grilling benefits of grilling;39;0;THCIB-S-E-5A
+0010;0;grilling japan and other asia;40;0;THCIB-S-E-5A
+0010;0;grilling fish;41;0;THCIB-S-E-5A
+0010;0;grilling methods;42;0;THCIB-S-E-5A
+0010;0;grilling lobster tails;43;0;THCIB-S-E-5A
+0010;0;grilling news, videos, reviews and gossip - lifehacker;44;0;THCIB-S-E-5A
+0010;0;grilling pork;45;0;THCIB-S-E-5A
+0011;0;| live small with style: furniture for small spaces;01;0;THCIB-S-E-5A
+0011;0;office furniture for small spaces;02;0;THCIB-S-E-5A
+0011;0;bedroom furniture design for small spaces;03;0;THCIB-S-E-5A
+0011;0;patio furniture for small spaces;04;0;THCIB-S-E-5A
+0011;0;dining room furniture for small spaces;05;0;THCIB-S-E-5A
+0011;0;modern furniture for small spaces;06;0;THCIB-S-E-5A
+0011;0;furniture for small spaces toronto;07;0;THCIB-S-E-5A
+0011;0;furniture for small spaces san diego;08;0;THCIB-S-E-5A
+0011;0;furniture for small spaces seattle;09;0;THCIB-S-E-5A
+0011;0;furniture for small spaces miami fl;10;0;THCIB-S-E-5A
+0011;0;furniture for small spaces nyc;11;0;THCIB-S-E-5A
+0011;0;furniture for small spaces new york;12;0;THCIB-S-E-5A
+0011;0;furniture for small spaces canada;13;0;THCIB-S-E-5A
+0011;0;furniture for small spaces uk;14;0;THCIB-S-E-5A
+0011;0;apartment studio couches | sofa furniture for small spaces;15;0;THCIB-S-E-5A
+0011;0;aol lifestream : furniture@furniture-for-small-spaces.com;16;0;THCIB-S-E-5A
+0011;0;living room furniture for small spaces;17;0;THCIB-S-E-5A
+0011;0;furniture for small spaces stores;18;0;THCIB-S-E-5A
+0011;0;bedroom furniture for small spaces;19;0;THCIB-S-E-5A
+0011;0;outdoor furniture for small spaces;20;0;THCIB-S-E-5A
+0011;0;kitchen furniture for small spaces;21;0;THCIB-S-E-5A
+0011;0;solutions on bathroom furniture for small spaces;22;0;THCIB-S-E-5A
+0011;0;furniture for small spaces san francisco;23;0;THCIB-S-E-5A
+0011;0;furniture for small spaces chicago;24;0;THCIB-S-E-5A
+0011;0;convertible furniture for small spaces;25;0;THCIB-S-E-5A
+0011;0;furniture solutions for small spaces;26;0;THCIB-S-E-5A
+0011;0;furniture for small spaces kids;27;0;THCIB-S-E-5A
+0011;0;patio furniture sets for small spaces;28;0;THCIB-S-E-5A
+0011;0;american furniture warehouse | ideal for small spaces;29;0;THCIB-S-E-5A
+0011;0;transforming furniture makes the most of small spaces;30;0;THCIB-S-E-5A
+0011;0;furniture stores for small spaces in toronto;31;0;THCIB-S-E-5A
+0011;0;furniture for storage in small spaces;32;0;THCIB-S-E-5A
+0011;0;furniture for small spaces vancouver;33;0;THCIB-S-E-5A
+0011;0;(part i) convertible furniture for small spaces;34;0;THCIB-S-E-5A
+0011;0;furniture for small spaces sofa;35;0;THCIB-S-E-5A
+0011;0;furniture for small spaces michigan;36;0;THCIB-S-E-5A
+0011;0;ideas for furniture for small spaces;37;0;THCIB-S-E-5A
+0011;0;outdoor daybeds | furniture for small spaces;38;0;THCIB-S-E-5A
+0011;0;buffet furniture for small spaces;39;0;THCIB-S-E-5A
+0011;0;how to choose modern furniture for small spaces;40;0;THCIB-S-E-5A
+0011;0;gig is "four-track furniture" for small spaces : treehugger;41;0;THCIB-S-E-5A
+0011;0;furniture for small spaces in san diego;42;0;THCIB-S-E-5A
+0011;0;littlediggs: convertible furniture for small spaces;43;0;THCIB-S-E-5A
+0011;0;furniture for small spaces images;44;0;THCIB-S-E-5A
+0011;0;storage furniture for small spaces;45;0;THCIB-S-E-5A
+0012;0;illinois dnr;01;0;THCIB-S-E-5A
+0012;0;dnr michigan;02;0;THCIB-S-E-5A
+0012;0;dnr maryland;03;0;THCIB-S-E-5A
+0012;0;dnr fire on twitter;04;0;THCIB-S-E-5A
+0012;0;why are dnr orders issued;05;0;THCIB-S-E-5A
+0012;0;department of natural resources (disambiguation);06;0;THCIB-S-E-5A
+0012;0;georgia dnr;07;0;THCIB-S-E-5A
+0012;0;iowa dnr;08;0;THCIB-S-E-5A
+0012;0;dnr indiana;09;0;THCIB-S-E-5A
+0012;0;dnr mn;10;0;THCIB-S-E-5A
+0012;0;minnesota dnr;11;0;THCIB-S-E-5A
+0012;0;dnr wisconsin;12;0;THCIB-S-E-5A
+0012;0;dolby noise reduction system;13;0;THCIB-S-E-5A
+0012;0;ohio dnr;14;0;THCIB-S-E-5A
+0012;0;dnr sc;15;0;THCIB-S-E-5A
+0012;0;dnr wiki;16;0;THCIB-S-E-5A
+0012;0;dnr - wikipedia, the free encyclopedia;17;0;THCIB-S-E-5A
+0012;0;daily news record;18;0;THCIB-S-E-5A
+0012;0;wv dnr;19;0;THCIB-S-E-5A
+0012;0;dnr.wi.gov;20;0;THCIB-S-E-5A
+0012;0;do not resuscitate;21;0;THCIB-S-E-5A
+0012;0;radio dnr luxembourg;22;0;THCIB-S-E-5A
+0012;0;dnr (music);23;0;THCIB-S-E-5A
+0012;0;dnr lake finder;24;0;THCIB-S-E-5A
+0012;0;pen register|dialed number recorder;25;0;THCIB-S-E-5A
+0012;0;direct insolation|direct normal radiation;26;0;THCIB-S-E-5A
+0012;0;dinard - pleurtuit - saint-malo airport;27;0;THCIB-S-E-5A
+0012;0;daunorubicin;28;0;THCIB-S-E-5A
+0012;0;dnr bio-imaging systems;29;0;THCIB-S-E-5A
+0012;0;dnr home;30;0;THCIB-S-E-5A
+0012;0;michigan dnr;31;0;THCIB-S-E-5A
+0012;0;maryland dnr;32;0;THCIB-S-E-5A
+0012;0;all dnr sites;33;0;THCIB-S-E-5A
+0012;0;dnr order;34;0;THCIB-S-E-5A
+0012;0;dnr - department of natural resources;35;0;THCIB-S-E-5A
+0012;0;ga dnr;36;0;THCIB-S-E-5A
+0012;0;ia dnr;37;0;THCIB-S-E-5A
+0012;0;indiana dnr;38;0;THCIB-S-E-5A
+0012;0;mn dnr;39;0;THCIB-S-E-5A
+0012;0;recreationdnr;40;0;THCIB-S-E-5A
+0012;0;wisconsin dnr;41;0;THCIB-S-E-5A
+0012;0;digital noise reduction;42;0;THCIB-S-E-5A
+0012;0;dnr ohio;43;0;THCIB-S-E-5A
+0012;0;south carolina dnr;44;0;THCIB-S-E-5A
+0012;0;dnr jewelry;45;0;THCIB-S-E-5A
+0013;0;lavaca arkansas;01;0;THCIB-S-E-5A
+0013;0;vendor arkansas;02;0;THCIB-S-E-5A
+0013;0;calico rock, arkansas;03;0;THCIB-S-E-5A
+0013;0;jasper, arkansas;04;0;THCIB-S-E-5A
+0013;0;mena arkansas;05;0;THCIB-S-E-5A
+0013;0;east little rock, arkansas;06;0;THCIB-S-E-5A
+0013;0;crawford county, arkansas;07;0;THCIB-S-E-5A
+0013;0;national weather service north little rock, arkansas;08;0;THCIB-S-E-5A
+0013;0;hwy 177 arkansas;09;0;THCIB-S-E-5A
+0013;0;little rock afb, arkansas;10;0;THCIB-S-E-5A
+0013;0;west ridge, arkansas;11;0;THCIB-S-E-5A
+0013;0;arkansas project;12;0;THCIB-S-E-5A
+0013;0;arkansas republican primary, 2008;13;0;THCIB-S-E-5A
+0013;0;13th arkansas infantry;14;0;THCIB-S-E-5A
+0013;0;center township, arkansas (disambiguation);15;0;THCIB-S-E-5A
+0013;0;1st arkansas 30 day volunteer regiment;16;0;THCIB-S-E-5A
+0013;0;arkansas system, university of;17;0;THCIB-S-E-5A
+0013;0;arkansas state highway and transportation department;18;0;THCIB-S-E-5A
+0013;0;interstate 440 in arkansas;19;0;THCIB-S-E-5A
+0013;0;arkansas online;20;0;THCIB-S-E-5A
+0013;0;arkansas highway 540;21;0;THCIB-S-E-5A
+0013;0;receive the free living in arkansas guide;22;0;THCIB-S-E-5A
+0013;0;elm park, arkansas;23;0;THCIB-S-E-5A
+0013;0;arkansas judge;24;0;THCIB-S-E-5A
+0013;0;arkansas gubernatorial election, 1980;25;0;THCIB-S-E-5A
+0013;0;historic arkansas museum;26;0;THCIB-S-E-5A
+0013;0;arkansas bay;27;0;THCIB-S-E-5A
+0013;0;arkansas stone;28;0;THCIB-S-E-5A
+0013;0;galla rock, arkansas;29;0;THCIB-S-E-5A
+0013;0;arkansas route 321;30;0;THCIB-S-E-5A
+0013;0;arkansas arboretum;31;0;THCIB-S-E-5A
+0013;0;white rock, arkansas;32;0;THCIB-S-E-5A
+0013;0;california township, faulkner county, arkansas;33;0;THCIB-S-E-5A
+0013;0;arkansas state;34;0;THCIB-S-E-5A
+0013;0;15th (josey's) arkansas infantry;35;0;THCIB-S-E-5A
+0013;0;2nd arkansas 30 day volunteer regiment;36;0;THCIB-S-E-5A
+0013;0;list of high schools in arkansas;37;0;THCIB-S-E-5A
+0013;0;dallas county, arkansas;38;0;THCIB-S-E-5A
+0013;0;university of arkansas;39;0;THCIB-S-E-5A
+0013;0;epperson v arkansas;40;0;THCIB-S-E-5A
+0013;0;arkansas state elections, 2006;41;0;THCIB-S-E-5A
+0013;0;conway arkansas;42;0;THCIB-S-E-5A
+0013;0;center township, pope county, arkansas;43;0;THCIB-S-E-5A
+0013;0;arkansas highway 95s;44;0;THCIB-S-E-5A
+0013;0;louisiana and arkansas railway;45;0;THCIB-S-E-5A
+0014;0;hobby stores in california;01;0;THCIB-S-E-5A
+0014;0;hobby stores nj;02;0;THCIB-S-E-5A
+0014;0;local hobby stores;03;0;THCIB-S-E-5A
+0014;0;rc hobby stores;04;0;THCIB-S-E-5A
+0014;0;california hobby shops and hobby stores;05;0;THCIB-S-E-5A
+0014;0;hobby stores denver;06;0;THCIB-S-E-5A
+0014;0;hobby stores online;07;0;THCIB-S-E-5A
+0014;0;toy hobby stores;08;0;THCIB-S-E-5A
+0014;0;hobby stores in utah;09;0;THCIB-S-E-5A
+0014;0;online hobby shop;10;0;THCIB-S-E-5A
+0014;0;hobby stores las vegas;11;0;THCIB-S-E-5A
+0014;0;hobby stores in san diego;12;0;THCIB-S-E-5A
+0014;0;hobby stores in maryland;13;0;THCIB-S-E-5A
+0014;0;hobby stores in michigan;14;0;THCIB-S-E-5A
+0014;0;hobby stores near me;15;0;THCIB-S-E-5A
+0014;0;akiba2go: akihabara map of hobby stores;16;0;THCIB-S-E-5A
+0014;0;hobby store locations;17;0;THCIB-S-E-5A
+0014;0;hobby stores in minnesota;18;0;THCIB-S-E-5A
+0014;0;hobby stores hobby shops;19;0;THCIB-S-E-5A
+0014;0;hobby shop locator;20;0;THCIB-S-E-5A
+0014;0;hobby stores 92832;21;0;THCIB-S-E-5A
+0014;0;hobby stores nyc;22;0;THCIB-S-E-5A
+0014;0;rider s hobby stores;23;0;THCIB-S-E-5A
+0014;0;hobby stores in massachusetts;24;0;THCIB-S-E-5A
+0014;0;rc hobby shops;25;0;THCIB-S-E-5A
+0014;0;national retail hobby stores association;26;0;THCIB-S-E-5A
+0014;0;hobby stores in brisbane;27;0;THCIB-S-E-5A
+0014;0;hobby stores - monitorlatino.com;28;0;THCIB-S-E-5A
+0014;0;hobby stores saginaw michigan;29;0;THCIB-S-E-5A
+0014;0;hobby stores in ma;30;0;THCIB-S-E-5A
+0014;0;hobby stores mn;31;0;THCIB-S-E-5A
+0014;0;many hobby stores;32;0;THCIB-S-E-5A
+0014;0;hobby shop;33;0;THCIB-S-E-5A
+0014;0;illinois hobby shops and hobby stores;34;0;THCIB-S-E-5A
+0014;0;hobby stores phoenix;35;0;THCIB-S-E-5A
+0014;0;online hobby stores;36;0;THCIB-S-E-5A
+0014;0;hobby stores category;37;0;THCIB-S-E-5A
+0014;0;hobby stores in philippines;38;0;THCIB-S-E-5A
+0014;0;rc hobby shop online;39;0;THCIB-S-E-5A
+0014;0;national retail hobby stores association, inc. | nrhsa;40;0;THCIB-S-E-5A
+0014;0;hobby stores temecula;41;0;THCIB-S-E-5A
+0014;0;hagerstown hobby stores trains;42;0;THCIB-S-E-5A
+0014;0;hobby stores in colorado;43;0;THCIB-S-E-5A
+0014;0;hobby stores portland or;44;0;THCIB-S-E-5A
+0014;0;the hobby stores;45;0;THCIB-S-E-5A
+0015;0;blue -throated hummingbird magnificent hummingbird ruby-throated hummingbird black-chinned;01;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird - font arizona tour - july 2001;02;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird facts;03;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird food;04;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird female;05;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird photo;06;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird pictures;07;0;THCIB-S-E-5A
+0015;0;az: green valley blue-throated hummingbird;08;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird profile and photos sabo;09;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbirds frequently nest over running water;10;0;THCIB-S-E-5A
+0015;0;0:18 watch later error blue-throated hummingbirdby seldomhome189 views;11;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird migration;12;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird posts;13;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird habitat;14;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird - lampornis clemenciae;15;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird nest;16;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird information;17;0;THCIB-S-E-5A
+0015;0;blue throated hummingbirds wings;18;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird - hummingbirds;19;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird profile;20;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird discovered;21;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird male;22;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird texas;23;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird images;24;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird predators;25;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird video;26;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird physiology;27;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird song;28;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird (lampornis clemenciae) photo;29;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird profile and photos;30;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird - youtube;31;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird (bird species);32;0;THCIB-S-E-5A
+0015;0;behavior of blue throated hummingbird;33;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird and canyon penstemon;34;0;THCIB-S-E-5A
+0015;0;male and female blue throated hummingbirds;35;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird collage by ~arery on deviantart;36;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird discovered in colombia environment;37;0;THCIB-S-E-5A
+0015;0;blue-throated hummingbird on vimeo;38;0;THCIB-S-E-5A
+0015;0;the blue-throated hummingbird feeds on insects and nectar;39;0;THCIB-S-E-5A
+0015;0;what does blue throated humming bird eat;40;0;THCIB-S-E-5A
+0015;0;059 male blue-throated hummingbird;41;0;THCIB-S-E-5A
+0015;0;blue throated hummingbird song a pinnacle of nonoscine vocalizations;42;0;THCIB-S-E-5A
+0015;0;terry steele nature photography blue-throated hummingbird;43;0;THCIB-S-E-5A
+0015;0;reproductive behavior and communication in blue throated hummingbirds;44;0;THCIB-S-E-5A
+0015;0;westtexashummingbirds.com: blue-throated hummingbird;45;0;THCIB-S-E-5A
+0016;0;computer programming language;01;0;THCIB-S-E-5A
+0016;0;computer programming for dummies;02;0;THCIB-S-E-5A
+0016;0;computer programming degree;03;0;THCIB-S-E-5A
+0016;0;learning computer programming;04;0;THCIB-S-E-5A
+0016;0;computer programming software;05;0;THCIB-S-E-5A
+0016;0;computer programming courses;06;0;THCIB-S-E-5A
+0016;0;introduction to computer programming;07;0;THCIB-S-E-5A
+0016;0;science of computer programming;08;0;THCIB-S-E-5A
+0016;0;computer programming jobs;09;0;THCIB-S-E-5A
+0016;0;computer programming salary;10;0;THCIB-S-E-5A
+0016;0;outline of computer programming;11;0;THCIB-S-E-5A
+0016;0;the art of computer programming;12;0;THCIB-S-E-5A
+0016;0;computer programming schools;13;0;THCIB-S-E-5A
+0016;0;computer programming for kid;14;0;THCIB-S-E-5A
+0016;0;computer programming services;15;0;THCIB-S-E-5A
+0016;0;computer programming - wikipedia, the free encyclopedia;16;0;THCIB-S-E-5A
+0016;0;computer programming tutorials;17;0;THCIB-S-E-5A
+0016;0;computer programming overview;18;0;THCIB-S-E-5A
+0016;0;computer programming optimization;19;0;THCIB-S-E-5A
+0016;0;computer programming class;20;0;THCIB-S-E-5A
+0016;0;how to do computer programming;21;0;THCIB-S-E-5A
+0016;0;information on computer programming;22;0;THCIB-S-E-5A
+0016;0;computer programming career;23;0;THCIB-S-E-5A
+0016;0;list of computer programming topics;24;0;THCIB-S-E-5A
+0016;0;concepts, techniques, and models of computer programming;25;0;THCIB-S-E-5A
+0016;0;computer programming programmers;26;0;THCIB-S-E-5A
+0016;0;computer programming for beginners;27;0;THCIB-S-E-5A
+0016;0;computer programming company;28;0;THCIB-S-E-5A
+0016;0;computer programming basics;29;0;THCIB-S-E-5A
+0016;0;computer programming cartoon;30;0;THCIB-S-E-5A
+0016;0;certificate in computer programming;31;0;THCIB-S-E-5A
+0016;0;computer programming code;32;0;THCIB-S-E-5A
+0016;0;computer programming quality requirements;33;0;THCIB-S-E-5A
+0016;0;computer programming methodologies;34;0;THCIB-S-E-5A
+0016;0;basic computer programming;35;0;THCIB-S-E-5A
+0016;0;as computer programming;36;0;THCIB-S-E-5A
+0016;0;computer programming jokes computer;37;0;THCIB-S-E-5A
+0016;0;computer programming job description;38;0;THCIB-S-E-5A
+0016;0;topic outline of computer programming;39;0;THCIB-S-E-5A
+0016;0;art of computer programming;40;0;THCIB-S-E-5A
+0016;0;wolfram uk student computer programming challenge 2012;41;0;THCIB-S-E-5A
+0016;0;small basic - computer programming - youtube;42;0;THCIB-S-E-5A
+0016;0;computer programming services computer programming services company;43;0;THCIB-S-E-5A
+0016;0;computer programming programming languages;44;0;THCIB-S-E-5A
+0016;0;com the computer programming tutorial you are about;45;0;THCIB-S-E-5A
+0017;0;barbados history;01;0;THCIB-S-E-5A
+0017;0;breedy's, barbados;02;0;THCIB-S-E-5A
+0017;0;saint george, barbados;03;0;THCIB-S-E-5A
+0017;0;barbados stock exchange;04;0;THCIB-S-E-5A
+0017;0;walt disney world resort;05;0;THCIB-S-E-5A
+0017;0;barbadoes island (pennsylvania);06;0;THCIB-S-E-5A
+0017;0;barbados slim;07;0;THCIB-S-E-5A
+0017;0;barbados vacation;08;0;THCIB-S-E-5A
+0017;0;list of schools in barbados;09;0;THCIB-S-E-5A
+0017;0;barbados island;10;0;THCIB-S-E-5A
+0017;0;education in barbados;11;0;THCIB-S-E-5A
+0017;0;bridgetown, barbados;12;0;THCIB-S-E-5A
+0017;0;christchurch education;13;0;THCIB-S-E-5A
+0017;0;barbados football;14;0;THCIB-S-E-5A
+0017;0;acerola;15;0;THCIB-S-E-5A
+0017;0;barbados news;16;0;THCIB-S-E-5A
+0017;0;barbados government;17;0;THCIB-S-E-5A
+0017;0;new barbadoes township, new jersey;18;0;THCIB-S-E-5A
+0017;0;models (band);19;0;THCIB-S-E-5A
+0017;0;high commission of canada in barbados;20;0;THCIB-S-E-5A
+0017;0;barbados english;21;0;THCIB-S-E-5A
+0017;0;christchurch entertainment;22;0;THCIB-S-E-5A
+0017;0;barbados programme of action;23;0;THCIB-S-E-5A
+0017;0;barbados gooseberry;24;0;THCIB-S-E-5A
+0017;0;barbados lily;25;0;THCIB-S-E-5A
+0017;0;immigration to barbados;26;0;THCIB-S-E-5A
+0017;0;barbados lottery;27;0;THCIB-S-E-5A
+0017;0;caribbean > barbados;28;0;THCIB-S-E-5A
+0017;0;barbados beach;29;0;THCIB-S-E-5A
+0017;0;barbados symphonia;30;0;THCIB-S-E-5A
+0017;0;barbados tourism;31;0;THCIB-S-E-5A
+0017;0;christchurch;32;0;THCIB-S-E-5A
+0017;0;barbados airport;33;0;THCIB-S-E-5A
+0017;0;parliament of barbados;34;0;THCIB-S-E-5A
+0017;0;barbados at the 2010 commonwealth games;35;0;THCIB-S-E-5A
+0017;0;holidays in barbados;36;0;THCIB-S-E-5A
+0017;0;2010 barbados premier division;37;0;THCIB-S-E-5A
+0017;0;barbados (band);38;0;THCIB-S-E-5A
+0017;0;barbados blackbelly sheep;39;0;THCIB-S-E-5A
+0017;0;barbados advocate;40;0;THCIB-S-E-5A
+0017;0;facts about barbados;41;0;THCIB-S-E-5A
+0017;0;law of barbados;42;0;THCIB-S-E-5A
+0017;0;barbados resorts;43;0;THCIB-S-E-5A
+0017;0;barbados independence order 1966;44;0;THCIB-S-E-5A
+0018;0;fatty lipoma;01;0;THCIB-S-E-5A
+0018;0;benign lipoma;02;0;THCIB-S-E-5A
+0018;0;lipoma removal;03;0;THCIB-S-E-5A
+0018;0;lipoma symptoms;04;0;THCIB-S-E-5A
+0018;0;pleomorphic lipoma;05;0;THCIB-S-E-5A
+0018;0;lipoma - wikipedia, the free encyclopedia;06;0;THCIB-S-E-5A
+0018;0;lipoma of the breast;07;0;THCIB-S-E-5A
+0018;0;lipoma petrificans;08;0;THCIB-S-E-5A
+0018;0;lipoma in dogs;09;0;THCIB-S-E-5A
+0018;0;lipoma prevalence;10;0;THCIB-S-E-5A
+0018;0;lipoma diagnosis;11;0;THCIB-S-E-5A
+0018;0;painful lipoma;12;0;THCIB-S-E-5A
+0018;0;lipoma treatments;13;0;THCIB-S-E-5A
+0018;0;lipoma firs golf course;14;0;THCIB-S-E-5A
+0018;0;lipoma back;15;0;THCIB-S-E-5A
+0018;0;arborescens lipoma;16;0;THCIB-S-E-5A
+0018;0;lipoma picture;17;0;THCIB-S-E-5A
+0018;0;toglire lipoma;18;0;THCIB-S-E-5A
+0018;0;lipomatosis;19;0;THCIB-S-E-5A
+0018;0;intraosseous lipomas;20;0;THCIB-S-E-5A
+0018;0;mr imaging of lipoma and liposarcoma;21;0;THCIB-S-E-5A
+0018;0;lipoma images and video;22;0;THCIB-S-E-5A
+0018;0;lamictal lipoma;23;0;THCIB-S-E-5A
+0018;0;lipoma: causes - mayoclinic.com;24;0;THCIB-S-E-5A
+0018;0;lipomassage;25;0;THCIB-S-E-5A
+0018;0;lipoma corticosteriod;26;0;THCIB-S-E-5A
+0018;0;operazioe lipoma;27;0;THCIB-S-E-5A
+0018;0;lipoma causes;28;0;THCIB-S-E-5A
+0018;0;lipoma tumor treatment;29;0;THCIB-S-E-5A
+0018;0;lipoma excision;30;0;THCIB-S-E-5A
+0018;0;lipoma forum;31;0;THCIB-S-E-5A
+0018;0;atypical lipoma;32;0;THCIB-S-E-5A
+0018;0;intradermal spindle cell lipoma;33;0;THCIB-S-E-5A
+0018;0;lipomastia;34;0;THCIB-S-E-5A
+0018;0;lipoma myxomatodes;35;0;THCIB-S-E-5A
+0018;0;lipoma in veterinary medicine;36;0;THCIB-S-E-5A
+0018;0;colonic lipoma;37;0;THCIB-S-E-5A
+0018;0;fetal lipoma;38;0;THCIB-S-E-5A
+0018;0;lipoma pain;39;0;THCIB-S-E-5A
+0018;0;lipoma board treatments and cures;40;0;THCIB-S-E-5A
+0018;0;lipoma firs;41;0;THCIB-S-E-5A
+0018;0;back lipoma;42;0;THCIB-S-E-5A
+0018;0;lipoma arborescens;43;0;THCIB-S-E-5A
+0018;0;picture of lipoma;44;0;THCIB-S-E-5A
+0018;0;toglier lipoma;45;0;THCIB-S-E-5A
+0019;0;battles in the civil war in order;01;0;THCIB-S-E-5A
+0019;0;famous battles in the civil war;02;0;THCIB-S-E-5A
+0019;0;battles in the civil war list;03;0;THCIB-S-E-5A
+0019;0;battles in the civil war during 1864;04;0;THCIB-S-E-5A
+0019;0;battles in the civil war timeline;05;0;THCIB-S-E-5A
+0019;0;photos during the battles of the civil war;06;0;THCIB-S-E-5A
+0019;0;battles in the civil war in 1863;07;0;THCIB-S-E-5A
+0019;0;battles in the civil war map;08;0;THCIB-S-E-5A
+0019;0;battles in the civil war who won;09;0;THCIB-S-E-5A
+0019;0;battles fought in the civil war;10;0;THCIB-S-E-5A
+0019;0;battles in the civil war west;11;0;THCIB-S-E-5A
+0019;0;major battles in the civil war;12;0;THCIB-S-E-5A
+0019;0;final battles of the civil war;13;0;THCIB-S-E-5A
+0019;0;battles in the civil war in tennessee;14;0;THCIB-S-E-5A
+0019;0;battles in the civil war 1864;15;0;THCIB-S-E-5A
+0019;0;important battles in the civil war;16;0;THCIB-S-E-5A
+0019;0;battles in the civil war in virginia;17;0;THCIB-S-E-5A
+0019;0;battles of the civil war 1 windows;18;0;THCIB-S-E-5A
+0019;0;casualties in the civil war battles;19;0;THCIB-S-E-5A
+0019;0;videos for battles in the civil war;20;0;THCIB-S-E-5A
+0019;0;generals in the civil war battles;21;0;THCIB-S-E-5A
+0019;0;battles in the civil war in alabama;22;0;THCIB-S-E-5A
+0019;0;battles in the civil war in the east coast;23;0;THCIB-S-E-5A
+0019;0;the civil war battles in 1864;24;0;THCIB-S-E-5A
+0019;0;battles and leaders of the civil war online;25;0;THCIB-S-E-5A
+0019;0;the civil war battles in texas;26;0;THCIB-S-E-5A
+0019;0;battles in the civil war wiki;27;0;THCIB-S-E-5A
+0019;0;how many battles in the civil war;28;0;THCIB-S-E-5A
+0019;0;battles in tennessee the civil war;29;0;THCIB-S-E-5A
+0019;0;the final battles of the civil war map;30;0;THCIB-S-E-5A
+0019;0;all the battles of the civil war in order;31;0;THCIB-S-E-5A
+0019;0;who was in the civil war battles;32;0;THCIB-S-E-5A
+0019;0;most battles in the civil war;33;0;THCIB-S-E-5A
+0019;0;battles in virginia during the civil war;34;0;THCIB-S-E-5A
+0019;0;major battles in the civil war timeline;35;0;THCIB-S-E-5A
+0019;0;fight the final battles of the civil war;36;0;THCIB-S-E-5A
+0019;0;the civil war battles in order;37;0;THCIB-S-E-5A
+0019;0;the civil war battles in the south;38;0;THCIB-S-E-5A
+0019;0;how many battles were there in the civil war;39;0;THCIB-S-E-5A
+0019;0;the civil war battles in virginia;40;0;THCIB-S-E-5A
+0019;0;major battles in the civil war for kids;41;0;THCIB-S-E-5A
+0019;0;battles and leaders of the civil war opening battles;42;0;THCIB-S-E-5A
+0019;0;the battles in order for the civil war;43;0;THCIB-S-E-5A
+0019;0;battles in the civil war in texas;44;0;THCIB-S-E-5A
+0020;0;electric scooters;01;0;THCIB-S-E-5A
+0020;0;knee scooter;02;0;THCIB-S-E-5A
+0020;0;gas scooters;03;0;THCIB-S-E-5A
+0020;0;pro scooters;04;0;THCIB-S-E-5A
+0020;0;scooters union;05;0;THCIB-S-E-5A
+0020;0;scooters coffee;06;0;THCIB-S-E-5A
+0020;0;motor scooters;07;0;THCIB-S-E-5A
+0020;0;electric scooters motorized scooters gas scooters;08;0;THCIB-S-E-5A
+0020;0;scooters for sale;09;0;THCIB-S-E-5A
+0020;0;scooters for kids;10;0;THCIB-S-E-5A
+0020;0;mobility scooter;11;0;THCIB-S-E-5A
+0020;0;scooter (band);12;0;THCIB-S-E-5A
+0020;0;scooters vehicles;13;0;THCIB-S-E-5A
+0020;0;scooter (motorcycle);14;0;THCIB-S-E-5A
+0020;0;scooters jungle;15;0;THCIB-S-E-5A
+0020;0;vespa scooters;16;0;THCIB-S-E-5A
+0020;0;scooters chicago;17;0;THCIB-S-E-5A
+0020;0;honda scooters;18;0;THCIB-S-E-5A
+0020;0;kick scooter;19;0;THCIB-S-E-5A
+0020;0;john dorian;20;0;THCIB-S-E-5A
+0020;0;scooters denver;21;0;THCIB-S-E-5A
+0020;0;scooters pizza;22;0;THCIB-S-E-5A
+0020;0;diver propulsion vehicle;23;0;THCIB-S-E-5A
+0020;0;personal water craft;24;0;THCIB-S-E-5A
+0020;0;scooter: secret agent;25;0;THCIB-S-E-5A
+0020;0;scooter (talking baseball);26;0;THCIB-S-E-5A
+0020;0;lewis libby|i. lewis "scooter" libby, jr;27;0;THCIB-S-E-5A
+0020;0;ice boat;28;0;THCIB-S-E-5A
+0020;0;airscooter corporation;29;0;THCIB-S-E-5A
+0020;0;douglas a-4 skyhawk;30;0;THCIB-S-E-5A
+0020;0;harley davidson;31;0;THCIB-S-E-5A
+0020;0;scoter;32;0;THCIB-S-E-5A
+0020;0;phil rizzuto;33;0;THCIB-S-E-5A
+0020;0;cushman motor scooters 1936 - 1965;34;0;THCIB-S-E-5A
+0020;0;flying scooters;35;0;THCIB-S-E-5A
+0020;0;scooters - how to choose;36;0;THCIB-S-E-5A
+0020;0;scooter (skirt);37;0;THCIB-S-E-5A
+0020;0;yamaha scooters;38;0;THCIB-S-E-5A
+0020;0;razor scooters;39;0;THCIB-S-E-5A
+0020;0;electric motorcycles and scooters;40;0;THCIB-S-E-5A
+0020;0;scooters bar and grill;41;0;THCIB-S-E-5A
+0020;0;lpg powered scooters;42;0;THCIB-S-E-5A
+0020;0;electric scooters gas scooters motorized scooters;43;0;THCIB-S-E-5A
+0020;0;pgo scooters;44;0;THCIB-S-E-5A
+0020;0;scooters for adults;45;0;THCIB-S-E-5A
+0021;0;ron howard movie;01;0;THCIB-S-E-5A
+0021;0;what religion is ron howard;02;0;THCIB-S-E-5A
+0021;0;ron howard net worth;03;0;THCIB-S-E-5A
+0021;0;ron howard - tv;04;0;THCIB-S-E-5A
+0021;0;ron howard film;05;0;THCIB-S-E-5A
+0021;0;ron howardphotos;06;0;THCIB-S-E-5A
+0021;0;ron howard's daughter;07;0;THCIB-S-E-5A
+0021;0;ron howard development;08;0;THCIB-S-E-5A
+0021;0;ron howard happy days;09;0;THCIB-S-E-5A
+0021;0;ron howard on election 2008;10;0;THCIB-S-E-5A
+0021;0;1999 ron howard satire;11;0;THCIB-S-E-5A
+0021;0;ron howard - wikipedia, the free encyclopedia;12;0;THCIB-S-E-5A
+0021;0;list of ron howard movies;13;0;THCIB-S-E-5A
+0021;0;ron howard's brother;14;0;THCIB-S-E-5A
+0021;0;ron howard wiki;15;0;THCIB-S-E-5A
+0021;0;ron howard - imdb;16;0;THCIB-S-E-5A
+0021;0;ron howard a beautiful mind;17;0;THCIB-S-E-5A
+0021;0;ron howard bio;18;0;THCIB-S-E-5A
+0021;0;ron howard's rush poster;19;0;THCIB-S-E-5A
+0021;0;ron howard (director);20;0;THCIB-S-E-5A
+0021;0;ron howard family pictures;21;0;THCIB-S-E-5A
+0021;0;ron howard news;22;0;THCIB-S-E-5A
+0021;0;ron howard television;23;0;THCIB-S-E-5A
+0021;0;ron howard filmography;24;0;THCIB-S-E-5A
+0021;0;contacting ron howard;25;0;THCIB-S-E-5A
+0021;0;ron howard daughter;26;0;THCIB-S-E-5A
+0021;0;ron howard twitter;27;0;THCIB-S-E-5A
+0021;0;ron howard jewish;28;0;THCIB-S-E-5A
+0021;0;and on ron howard;29;0;THCIB-S-E-5A
+0021;0;ron howard matthew mcconaughey;30;0;THCIB-S-E-5A
+0021;0;the directors ron howard;31;0;THCIB-S-E-5A
+0021;0;howstuffworks "13 notable movies directed by ron howard";32;0;THCIB-S-E-5A
+0021;0;ron howard brother;33;0;THCIB-S-E-5A
+0021;0;ron howard (american director);34;0;THCIB-S-E-5A
+0021;0;mermaid ron howard director;35;0;THCIB-S-E-5A
+0021;0;awards for ron howard;36;0;THCIB-S-E-5A
+0021;0;ron howard biography;37;0;THCIB-S-E-5A
+0021;0;ron howard's rush poster - movieweb.com;38;0;THCIB-S-E-5A
+0021;0;ron howard rush;39;0;THCIB-S-E-5A
+0021;0;ron howard opie taylor;40;0;THCIB-S-E-5A
+0021;0;ron howard death;41;0;THCIB-S-E-5A
+0021;0;ron howard film roles and ''happy days'';42;0;THCIB-S-E-5A
+0021;0;ron howard career;43;0;THCIB-S-E-5A
+0021;0;ron howard canon;44;0;THCIB-S-E-5A
+0021;0;ron howard s children;45;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in texas;01;0;THCIB-S-E-5A
+0022;0;becoming a paralegal online;02;0;THCIB-S-E-5A
+0022;0;requirements for becoming a paralegal;03;0;THCIB-S-E-5A
+0022;0;becoming a paralegal after the age of 50;04;0;THCIB-S-E-5A
+0022;0;steps to becoming a paralegal;05;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in florida;06;0;THCIB-S-E-5A
+0022;0;process of becoming a paralegal;07;0;THCIB-S-E-5A
+0022;0;becoming paralegal arkansas;08;0;THCIB-S-E-5A
+0022;0;information on becoming a paralegal;09;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in california;10;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in pa;11;0;THCIB-S-E-5A
+0022;0;becoming a paralegal become an awesome legal assistant;12;0;THCIB-S-E-5A
+0022;0;tips for becoming a paralegal;13;0;THCIB-S-E-5A
+0022;0;benefits of becoming a paralegal;14;0;THCIB-S-E-5A
+0022;0;steps for becoming a paralegal;15;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in colorado;16;0;THCIB-S-E-5A
+0022;0;becoming a certified paralegal;17;0;THCIB-S-E-5A
+0022;0;becoming paralegal arizona;18;0;THCIB-S-E-5A
+0022;0;books on becoming a paralegal;19;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in ca;20;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in virginia;21;0;THCIB-S-E-5A
+0022;0;technorati tags: paralegal, becoming a paralegal, paralegal jobs;22;0;THCIB-S-E-5A
+0022;0;thinking of becoming a paralegal;23;0;THCIB-S-E-5A
+0022;0;steps in becoming a paralegal;24;0;THCIB-S-E-5A
+0022;0;becoming a paralegal before law school;25;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in nc;26;0;THCIB-S-E-5A
+0022;0;becoming paralegal az;27;0;THCIB-S-E-5A
+0022;0;becoming a paralegal book;28;0;THCIB-S-E-5A
+0022;0;hope you're all finding success in becoming paralegals;29;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in missouri;30;0;THCIB-S-E-5A
+0022;0;becoming a paralegal with a bachelor's degree;31;0;THCIB-S-E-5A
+0022;0;requirements of becoming a paralegal;32;0;THCIB-S-E-5A
+0022;0;advantages of becoming a paralegal;33;0;THCIB-S-E-5A
+0022;0;paralegal becoming a lawyer;34;0;THCIB-S-E-5A
+0022;0;becoming a certified paralegal in florida;35;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in bc;36;0;THCIB-S-E-5A
+0022;0;becoming paralegal alabama;37;0;THCIB-S-E-5A
+0022;0;becoming a paralegal: amazon.ca: learningexpress editors: books;38;0;THCIB-S-E-5A
+0022;0;becoming a paralegal in ontario;39;0;THCIB-S-E-5A
+0022;0;school for becoming a paralegal';40;0;THCIB-S-E-5A
+0022;0;requirements in becoming a paralegal;41;0;THCIB-S-E-5A
+0022;0;cost of becoming a paralegal;42;0;THCIB-S-E-5A
+0022;0;five questions to ask before becoming a paralegal;43;0;THCIB-S-E-5A
+0022;0;simple guide to becoming a paralegal in north dakota;44;0;THCIB-S-E-5A
+0022;0;benefits of becoming a certified paralegal;45;0;THCIB-S-E-5A
+0023;0;hip fractures treatment;01;0;THCIB-S-E-5A
+0023;0;hip fractures medical;02;0;THCIB-S-E-5A
+0023;0;nontreatment of hip fractures in senile patients;03;0;THCIB-S-E-5A
+0023;0;risk factors for hip fractures;04;0;THCIB-S-E-5A
+0023;0;hip fractures and mortality;05;0;THCIB-S-E-5A
+0023;0;hip fractures among elderly increase 40;06;0;THCIB-S-E-5A
+0023;0;hip fractures in the elderly;07;0;THCIB-S-E-5A
+0023;0;hip fractures in elderly women;08;0;THCIB-S-E-5A
+0023;0;intertrochanteric hip fractures;09;0;THCIB-S-E-5A
+0023;0;hip fracture repair;10;0;THCIB-S-E-5A
+0023;0;hip fractures in children;11;0;THCIB-S-E-5A
+0023;0;heartburn drugs and hip fractures;12;0;THCIB-S-E-5A
+0023;0;hip fractures types;13;0;THCIB-S-E-5A
+0023;0;hip fractures complications;14;0;THCIB-S-E-5A
+0023;0;hip fractures aaos;15;0;THCIB-S-E-5A
+0023;0;hip fractures merck manual home;16;0;THCIB-S-E-5A
+0023;0;hip fractures epidemiology;17;0;THCIB-S-E-5A
+0023;0;hip fractures radiology;18;0;THCIB-S-E-5A
+0023;0;heartburn hip fractures;19;0;THCIB-S-E-5A
+0023;0;hip fractures osteoporosis;20;0;THCIB-S-E-5A
+0023;0;hip fractures symptoms;21;0;THCIB-S-E-5A
+0023;0;hip fractures and death;22;0;THCIB-S-E-5A
+0023;0;hip fractures risks and causes;23;0;THCIB-S-E-5A
+0023;0;hip fractures in elderly;24;0;THCIB-S-E-5A
+0023;0;hip fractures classification;25;0;THCIB-S-E-5A
+0023;0;hairline hip fracture;26;0;THCIB-S-E-5A
+0023;0;hip fractures in dogs;27;0;THCIB-S-E-5A
+0023;0;nexium and hip fractures;28;0;THCIB-S-E-5A
+0023;0;hip fractures management;29;0;THCIB-S-E-5A
+0023;0;home collections hip fractures;30;0;THCIB-S-E-5A
+0023;0;hip fractures fractures the merck manual of health aging;31;0;THCIB-S-E-5A
+0023;0;epidemiology of hip fractures;32;0;THCIB-S-E-5A
+0023;0;hip fractures rehabilitation;33;0;THCIB-S-E-5A
+0023;0;prevacid hip fractures;34;0;THCIB-S-E-5A
+0023;0;causes of hip fractures;35;0;THCIB-S-E-5A
+0023;0;hip fractures diagnosis;36;0;THCIB-S-E-5A
+0023;0;hip fractures mortality;37;0;THCIB-S-E-5A
+0023;0;hip fractures hip protectors no help;38;0;THCIB-S-E-5A
+0023;0;hip fractures in the elderly prognosis;39;0;THCIB-S-E-5A
+0023;0;hip fractures in young adults;40;0;THCIB-S-E-5A
+0023;0;hip fractures intertrochanteric fracture;41;0;THCIB-S-E-5A
+0023;0;hip fracture icd-9;42;0;THCIB-S-E-5A
+0023;0;hip fractures in childnre;43;0;THCIB-S-E-5A
+0023;0;fluoridation and hip fractures;44;0;THCIB-S-E-5A
+0023;0;hip fractures fractured neck of femur;45;0;THCIB-S-E-5A
+0024;0;aboriginal rock art;01;0;THCIB-S-E-5A
+0024;0;african rock art;02;0;THCIB-S-E-5A
+0024;0;rock artists;03;0;THCIB-S-E-5A
+0024;0;american rock art home;04;0;THCIB-S-E-5A
+0024;0;punk rock art;05;0;THCIB-S-E-5A
+0024;0;prehistoric rock art;06;0;THCIB-S-E-5A
+0024;0;rock art research;07;0;THCIB-S-E-5A
+0024;0;millsite rock art;08;0;THCIB-S-E-5A
+0024;0;most rock art cannot be accurately dated;09;0;THCIB-S-E-5A
+0024;0;rock art brewery;10;0;THCIB-S-E-5A
+0024;0;rock art sites;11;0;THCIB-S-E-5A
+0024;0;rock art foundation;12;0;THCIB-S-E-5A
+0024;0;australian rock art;13;0;THCIB-S-E-5A
+0024;0;rock art show;14;0;THCIB-S-E-5A
+0024;0;rock art signs;15;0;THCIB-S-E-5A
+0024;0;coso rock art;16;0;THCIB-S-E-5A
+0024;0;rock art location;17;0;THCIB-S-E-5A
+0024;0;rock art - wikipedia, the free encyclopedia;18;0;THCIB-S-E-5A
+0024;0;dampier rock art;19;0;THCIB-S-E-5A
+0024;0;rock art of alta;20;0;THCIB-S-E-5A
+0024;0;rock art for kids;21;0;THCIB-S-E-5A
+0024;0;rock art (album);22;0;THCIB-S-E-5A
+0024;0;international federation of rock art organizations;23;0;THCIB-S-E-5A
+0024;0;rock artist list;24;0;THCIB-S-E-5A
+0024;0;rock art posters;25;0;THCIB-S-E-5A
+0024;0;tanum rock art museum;26;0;THCIB-S-E-5A
+0024;0;rock art ranch;27;0;THCIB-S-E-5A
+0024;0;chumash rock art;28;0;THCIB-S-E-5A
+0024;0;finnish rock art;29;0;THCIB-S-E-5A
+0024;0;mwela and adjacent areas rock art site (rock paintings);30;0;THCIB-S-E-5A
+0024;0;prog rock art rock;31;0;THCIB-S-E-5A
+0024;0;rock art email list;32;0;THCIB-S-E-5A
+0024;0;vitaminic art rock of rock art part 1;33;0;THCIB-S-E-5A
+0024;0;of cave and rock art;34;0;THCIB-S-E-5A
+0024;0;rock art archives;35;0;THCIB-S-E-5A
+0024;0;rock artists of the 80's;36;0;THCIB-S-E-5A
+0024;0;native american rock art;37;0;THCIB-S-E-5A
+0024;0;saharan rock art;38;0;THCIB-S-E-5A
+0024;0;rock art of the iberian mediterranean basin;39;0;THCIB-S-E-5A
+0024;0;rock art asia;40;0;THCIB-S-E-5A
+0024;0;rochester rock art panel;41;0;THCIB-S-E-5A
+0024;0;oldest rock art;42;0;THCIB-S-E-5A
+0024;0;rock art beer;43;0;THCIB-S-E-5A
+0024;0;rock art france;44;0;THCIB-S-E-5A
+0024;0;black rock art foundation;45;0;THCIB-S-E-5A
+0025;0;signs of a heartattack or stroke;01;0;THCIB-S-E-5A
+0025;0;signs of a heart attack;02;0;THCIB-S-E-5A
+0025;0;signs of a heartattack in a woman;03;0;THCIB-S-E-5A
+0025;0;signs of a heart attack in men;04;0;THCIB-S-E-5A
+0025;0;signs of a heartattack - google search;05;0;THCIB-S-E-5A
+0025;0;signs of a heart attack in women over 50;06;0;THCIB-S-E-5A
+0025;0;signs of a heartattack in a man;07;0;THCIB-S-E-5A
+0025;0;signs of heart attack in women;08;0;THCIB-S-E-5A
+0025;0;signs of a heartattack in young women;09;0;THCIB-S-E-5A
+0025;0;signs of heart attack - go red for women;10;0;THCIB-S-E-5A
+0025;0;signs of a heartattack in females;11;0;THCIB-S-E-5A
+0025;0;signs and symptoms of heartattack;12;0;THCIB-S-E-5A
+0025;0;signs of a woman having a heartattack;13;0;THCIB-S-E-5A
+0025;0;signs of a heartattack for a woman;14;0;THCIB-S-E-5A
+0025;0;signs of a heartattack for women;15;0;THCIB-S-E-5A
+0025;0;queen's heart - signs of a heart attack;16;0;THCIB-S-E-5A
+0025;0;warning signs of a heartattack in women;17;0;THCIB-S-E-5A
+0025;0;early signs of a heartattack;18;0;THCIB-S-E-5A
+0025;0;signs of a female heartattack;19;0;THCIB-S-E-5A
+0025;0;videos for signs of a heartattack;20;0;THCIB-S-E-5A
+0025;0;free warning signs of a heartattack magnet;21;0;THCIB-S-E-5A
+0026;0;weather strip under door;01;0;THCIB-S-E-5A
+0026;0;weatherstrip;02;0;THCIB-S-E-5A
+0026;0;auto weather strip;03;0;THCIB-S-E-5A
+0026;0;weather stripping doors;04;0;THCIB-S-E-5A
+0026;0;pile weather strip;05;0;THCIB-S-E-5A
+0026;0;weather stripping windows;06;0;THCIB-S-E-5A
+0026;0;weather strip pre-weatherstripped doors;07;0;THCIB-S-E-5A
+0026;0;door weather strips;08;0;THCIB-S-E-5A
+0026;0;weather striping for cars;09;0;THCIB-S-E-5A
+0026;0;weather strip door bottom;10;0;THCIB-S-E-5A
+0026;0;weatherstripping - wikipedia, the free encyclopedia;11;0;THCIB-S-E-5A
+0026;0;weather striping;12;0;THCIB-S-E-5A
+0026;0;how to replace weatherstrip;13;0;THCIB-S-E-5A
+0026;0;garage doors weather strip;14;0;THCIB-S-E-5A
+0026;0;english-french dictionary | weatherstrip;15;0;THCIB-S-E-5A
+0026;0;seal weather strip;16;0;THCIB-S-E-5A
+0026;0;window weatherstrips;17;0;THCIB-S-E-5A
+0026;0;rubber weather strip;18;0;THCIB-S-E-5A
+0026;0;weather stripping videos;19;0;THCIB-S-E-5A
+0026;0;china weather strip;20;0;THCIB-S-E-5A
+0026;0;weather stripping tape;21;0;THCIB-S-E-5A
+0026;0;weather strip weatherstripping in buildings;22;0;THCIB-S-E-5A
+0026;0;weather strips for doors;23;0;THCIB-S-E-5A
+0026;0;weather stripping for cars;24;0;THCIB-S-E-5A
+0026;0;cut the foam weatherstripping to length;25;0;THCIB-S-E-5A
+0026;0;rubber weatherstrips;26;0;THCIB-S-E-5A
+0026;0;weatherstrips vary from vehicle to vehicle;27;0;THCIB-S-E-5A
+0026;0;literature - accurate metal weatherstrip co.;28;0;THCIB-S-E-5A
+0026;0;weatherstrip - english-french dictionary wordreference.com;29;0;THCIB-S-E-5A
+0026;0;weather strip suppliers;30;0;THCIB-S-E-5A
+0026;0;weatherstrip seal;31;0;THCIB-S-E-5A
+0026;0;zero weather strip;32;0;THCIB-S-E-5A
+0026;0;weather stripping a door;33;0;THCIB-S-E-5A
+0026;0;weather strip importers;34;0;THCIB-S-E-5A
+0026;0;weather stripping walmart;35;0;THCIB-S-E-5A
+0026;0;weather strip custom weatherstripping;36;0;THCIB-S-E-5A
+0026;0;door weatherstripping;37;0;THCIB-S-E-5A
+0026;0;weather striping for 1993 corvette;38;0;THCIB-S-E-5A
+0026;0;residential weather strip;39;0;THCIB-S-E-5A
+0026;0;home hardware - hardware - builders - weatherstrip;40;0;THCIB-S-E-5A
+0026;0;hoelscher's weatherstripping and threshold brochure 12-7-11.indd;41;0;THCIB-S-E-5A
+0026;0;weather striping products;42;0;THCIB-S-E-5A
+0026;0;1953-2012 corvette weatherstrip | corvette parts and accessories;43;0;THCIB-S-E-5A
+0027;0;best long term care insurance plan;01;0;THCIB-S-E-5A
+0027;0;best long term care insurance companies 2010;02;0;THCIB-S-E-5A
+0027;0;best long-term care insurance quotes;03;0;THCIB-S-E-5A
+0027;0;best long term care insurance ratings;04;0;THCIB-S-E-5A
+0027;0;best long term care insurance providers;05;0;THCIB-S-E-5A
+0027;0;best long term care insurance reviews;06;0;THCIB-S-E-5A
+0027;0;best long term care insurance california;07;0;THCIB-S-E-5A
+0027;0;best long term care insurance companies;08;0;THCIB-S-E-5A
+0027;0;best type of long-term care insurance;09;0;THCIB-S-E-5A
+0027;0;best rated long term care insurance;10;0;THCIB-S-E-5A
+0027;0;best long term care insurance carriers;11;0;THCIB-S-E-5A
+0027;0;best age for long-term care insurance;12;0;THCIB-S-E-5A
+0027;0;ambest long term care insurance ratings;13;0;THCIB-S-E-5A
+0027;0;best providers of long term care insurance;14;0;THCIB-S-E-5A
+0027;0;best long term care insurance costs;15;0;THCIB-S-E-5A
+0027;0;best options for long-term care insurance;16;0;THCIB-S-E-5A
+0027;0;a m best ratings for long term care insurance;17;0;THCIB-S-E-5A
+0027;0;best long term care insurance 2010;18;0;THCIB-S-E-5A
+0027;0;long term care insurance best companies;19;0;THCIB-S-E-5A
+0027;0;long-term care insurance best age to buy;20;0;THCIB-S-E-5A
+0027;0;long term care insurance best ratings;21;0;THCIB-S-E-5A
+0027;0;best long term care insurance information;22;0;THCIB-S-E-5A
+0027;0;long-term care insurance best age to purchase;23;0;THCIB-S-E-5A
+0027;0;best long term care insurance program;24;0;THCIB-S-E-5A
+0027;0;best long term care insurance policies;25;0;THCIB-S-E-5A
+0027;0;genworth long term care insurance best rating;26;0;THCIB-S-E-5A
+0027;0;the best age to buy long-term-care insurance;27;0;THCIB-S-E-5A
+0027;0;best long term care insurance book;28;0;THCIB-S-E-5A
+0027;0;ranking the best long term care insurance companies;29;0;THCIB-S-E-5A
+0027;0;best long term care insurance rates;30;0;THCIB-S-E-5A
+0027;0;long term care insurance best affordable companies rate;31;0;THCIB-S-E-5A
+0027;0;best long term care insurance canada;32;0;THCIB-S-E-5A
+0027;0;long term care insurance best affordable quotes companies;33;0;THCIB-S-E-5A
+0027;0;best long term care insurance az;34;0;THCIB-S-E-5A
+0027;0;long term care insurance best affordable companies rate price;35;0;THCIB-S-E-5A
+0027;0;best long term care insurance comparisons;36;0;THCIB-S-E-5A
+0027;0;long term care insurance best affordable quotes companies rates;37;0;THCIB-S-E-5A
+0027;0;who has the best long term care insurance;38;0;THCIB-S-E-5A
+0027;0;long term care insurance best;39;0;THCIB-S-E-5A
+0027;0;best value long term care insurance;40;0;THCIB-S-E-5A
+0027;0;the best in long term care insurance;41;0;THCIB-S-E-5A
+0027;0;long term care insurance best value;42;0;THCIB-S-E-5A
+0028;0;stuffed pork tenderloin;01;0;THCIB-S-E-5A
+0028;0;pork tenderloin crockpot;02;0;THCIB-S-E-5A
+0028;0;cooking pork tenderloin;03;0;THCIB-S-E-5A
+0028;0;pork tenderloin roast;04;0;THCIB-S-E-5A
+0028;0;grilled pork tenderloin;05;0;THCIB-S-E-5A
+0028;0;baked pork tenderloin;06;0;THCIB-S-E-5A
+0028;0;pork tenderloin sandwich;07;0;THCIB-S-E-5A
+0028;0;pork tenderloin with apples;08;0;THCIB-S-E-5A
+0028;0;roasted pork tenderloin;09;0;THCIB-S-E-5A
+0028;0;pork tenderloin marinade;10;0;THCIB-S-E-5A
+0028;0;pork tenderloin rub;11;0;THCIB-S-E-5A
+0028;0;pork tenderloin - wikipedia, the free encyclopedia;12;0;THCIB-S-E-5A
+0028;0;pork tenderloin recipes;13;0;THCIB-S-E-5A
+0028;0;glazed pork tenderloin;14;0;THCIB-S-E-5A
+0028;0;pork tenderloin slow cooker;15;0;THCIB-S-E-5A
+0028;0;pork tenderloin temperature;16;0;THCIB-S-E-5A
+0028;0;great way to serve pork tenderloin;17;0;THCIB-S-E-5A
+0028;0;what is pork tenderloin;18;0;THCIB-S-E-5A
+0028;0;gorgonzola topped pork tenderloin;19;0;THCIB-S-E-5A
+0028;0;20-minute pork tenderloin;20;0;THCIB-S-E-5A
+0028;0;marinated pork tenderloin;21;0;THCIB-S-E-5A
+0028;0;easy pork tenderloin recipe;22;0;THCIB-S-E-5A
+0028;0;pork chops | pork tenderloin | pork ribs;23;0;THCIB-S-E-5A
+0028;0;how to cook pork tenderloin;24;0;THCIB-S-E-5A
+0028;0;whole pork tenderloin;25;0;THCIB-S-E-5A
+0028;0;jerk pork tenderloin;26;0;THCIB-S-E-5A
+0028;0;grilled pork tenderloin sandwiches;27;0;THCIB-S-E-5A
+0028;0;pork tenderloin with noodles recipe;28;0;THCIB-S-E-5A
+0028;0;pork tenderloin recipe foil;29;0;THCIB-S-E-5A
+0028;0;3 pound pork tenderloin;30;0;THCIB-S-E-5A
+0028;0;pork tenderloin and whiskey recipe;31;0;THCIB-S-E-5A
+0028;0;garlic pork tenderloin recipes;32;0;THCIB-S-E-5A
+0028;0;pork tenderloin recipes - allrecipes.com;33;0;THCIB-S-E-5A
+0028;0;pork tenderloin on the grill;34;0;THCIB-S-E-5A
+0028;0;pork tenderloin in the slow cooker;35;0;THCIB-S-E-5A
+0028;0;sliced pork tenderloin;36;0;THCIB-S-E-5A
+0028;0;pork tenderloin recipe recipe for roast pork tenderloin;37;0;THCIB-S-E-5A
+0028;0;pork tenderloin southwestern pork recipe;38;0;THCIB-S-E-5A
+0028;0;apples flavor this baked pork tenderloin perfectly;39;0;THCIB-S-E-5A
+0028;0;pork tenderloin sandwich blog;40;0;THCIB-S-E-5A
+0028;0;pork tenderloin with orange glaze pork tenderloin recipe;41;0;THCIB-S-E-5A
+0028;0;herb roasted pork tenderloin;42;0;THCIB-S-E-5A
+0028;0;cooks.com - recipes - pork tenderloin;43;0;THCIB-S-E-5A
+0029;0;black history quotes;01;0;THCIB-S-E-5A
+0029;0;black history timeline;02;0;THCIB-S-E-5A
+0029;0;list of famous black history people;03;0;THCIB-S-E-5A
+0029;0;black history museum;04;0;THCIB-S-E-5A
+0029;0;black history month;05;0;THCIB-S-E-5A
+0029;0;black history facts;06;0;THCIB-S-E-5A
+0029;0;black history the black community;07;0;THCIB-S-E-5A
+0029;0;black history people;08;0;THCIB-S-E-5A
+0029;0;black history inventors;09;0;THCIB-S-E-5A
+0029;0;black history - wikipedia, the free encyclopedia;10;0;THCIB-S-E-5A
+0029;0;black history civil rights;11;0;THCIB-S-E-5A
+0029;0;black history poems;12;0;THCIB-S-E-5A
+0029;0;center for contemporary black history at columbia university;13;0;THCIB-S-E-5A
+0029;0;2006 black history issue;14;0;THCIB-S-E-5A
+0029;0;black history historiography;15;0;THCIB-S-E-5A
+0029;0;black history month facts;16;0;THCIB-S-E-5A
+0029;0;black history the antebellum period;17;0;THCIB-S-E-5A
+0029;0;black history in puerto rico;18;0;THCIB-S-E-5A
+0029;0;center for contemporary black history;19;0;THCIB-S-E-5A
+0029;0;black history plays;20;0;THCIB-S-E-5A
+0029;0;black history scholars of african-american history;21;0;THCIB-S-E-5A
+0029;0;black history primary sources;22;0;THCIB-S-E-5A
+0029;0;black history pictures;23;0;THCIB-S-E-5A
+0029;0;black history the revolution and early america;24;0;THCIB-S-E-5A
+0029;0;lucent library of black history;25;0;THCIB-S-E-5A
+0029;0;gale - free resources - black history - home;26;0;THCIB-S-E-5A
+0029;0;black history poems and black history month poems;27;0;THCIB-S-E-5A
+0029;0;black history skits;28;0;THCIB-S-E-5A
+0029;0;black history trivia;29;0;THCIB-S-E-5A
+0029;0;foundation seeking landmarks of state's black history;30;0;THCIB-S-E-5A
+0029;0;great plains black history museum;31;0;THCIB-S-E-5A
+0029;0;black history world war i;32;0;THCIB-S-E-5A
+0029;0;dayinblackhistory;33;0;THCIB-S-E-5A
+0029;0;black history the dred scott decision;34;0;THCIB-S-E-5A
+0029;0;black history black history people;35;0;THCIB-S-E-5A
+0029;0;black history inventors black history month;36;0;THCIB-S-E-5A
+0030;0;newyork hotel deals;01;0;THCIB-S-E-5A
+0030;0;newyork hotels manhattan;02;0;THCIB-S-E-5A
+0030;0;new york hotels;03;0;THCIB-S-E-5A
+0030;0;trump hotel new york;04;0;THCIB-S-E-5A
+0030;0;new york hotels in manhattan;05;0;THCIB-S-E-5A
+0030;0;newyork city hotels;06;0;THCIB-S-E-5A
+0030;0;new york city hotels | 10 best western locations;07;0;THCIB-S-E-5A
+0030;0;w hotels in newyork;08;0;THCIB-S-E-5A
+0030;0;newyork hotels tv;09;0;THCIB-S-E-5A
+0030;0;newyork hotels cheap;10;0;THCIB-S-E-5A
+0030;0;w hotels newyork;11;0;THCIB-S-E-5A
+0030;0;hotels times square new york;12;0;THCIB-S-E-5A
+0030;0;hotels in new york;13;0;THCIB-S-E-5A
+0030;0;newyork hotels tripadvisor;14;0;THCIB-S-E-5A
+0030;0;new york hotels newyork com;15;0;THCIB-S-E-5A
+0030;0;list of hotels in newyork;16;0;THCIB-S-E-5A
+0030;0;newyork hotels biz;17;0;THCIB-S-E-5A
+0030;0;newyorkhotels.com;18;0;THCIB-S-E-5A
+0030;0;newyork hotels near times square;19;0;THCIB-S-E-5A
+0030;0;new york hotel las vegas;20;0;THCIB-S-E-5A
+0030;0;hilton hotels in newyork;21;0;THCIB-S-E-5A
+0030;0;cheap hotels in newyork;22;0;THCIB-S-E-5A
+0030;0;hotels of newyork;23;0;THCIB-S-E-5A
+0030;0;new york new york hotel;24;0;THCIB-S-E-5A
+0030;0;hotels at new york city;25;0;THCIB-S-E-5A
+0030;0;map of newyork hotels;26;0;THCIB-S-E-5A
+0030;0;niagara falls new york hotels;27;0;THCIB-S-E-5A
+0030;0;hotels in newyork downtown;28;0;THCIB-S-E-5A
+0030;0;www newyork hotels tv;29;0;THCIB-S-E-5A
+0030;0;newyork hotels - google search;30;0;THCIB-S-E-5A
+0030;0;hotels in newyork manhattan;31;0;THCIB-S-E-5A
+0030;0;cheap new york hotels;32;0;THCIB-S-E-5A
+0030;0;hilton hotel in new york;33;0;THCIB-S-E-5A
+0030;0;hotels new york city;34;0;THCIB-S-E-5A
+0030;0;hotels in new york city;35;0;THCIB-S-E-5A
+0031;0;coins older than 1964;01;0;THCIB-S-E-5A
+0031;0;old coins worth;02;0;THCIB-S-E-5A
+0031;0;value of old coins;03;0;THCIB-S-E-5A
+0031;0;old coins | ebay;04;0;THCIB-S-E-5A
+0031;0;old gold coins for sale;05;0;THCIB-S-E-5A
+0031;0;old coins found;06;0;THCIB-S-E-5A
+0031;0;coins old us;07;0;THCIB-S-E-5A
+0031;0;old coins collection;08;0;THCIB-S-E-5A
+0031;0;old coins for sale;09;0;THCIB-S-E-5A
+0031;0;coins cleaning old coins;10;0;THCIB-S-E-5A
+0031;0;old foreign coins;11;0;THCIB-S-E-5A
+0031;0;coins old british;12;0;THCIB-S-E-5A
+0031;0;old coins and bills;13;0;THCIB-S-E-5A
+0031;0;old coins values;14;0;THCIB-S-E-5A
+0031;0;old coins pennies;15;0;THCIB-S-E-5A
+0031;0;how to clean old coins;16;0;THCIB-S-E-5A
+0031;0;us old coin value;17;0;THCIB-S-E-5A
+0031;0;canadian coins old;18;0;THCIB-S-E-5A
+0031;0;where to turn in old maple coins;19;0;THCIB-S-E-5A
+0031;0;old coins of the philippines;20;0;THCIB-S-E-5A
+0031;0;what to look for in old coins;21;0;THCIB-S-E-5A
+0031;0;old coins prices;22;0;THCIB-S-E-5A
+0031;0;old coins and their value;23;0;THCIB-S-E-5A
+0031;0;find value old coins;24;0;THCIB-S-E-5A
+0031;0;sell old coins;25;0;THCIB-S-E-5A
+0031;0;old coins with holes in them;26;0;THCIB-S-E-5A
+0031;0;old coins of india;27;0;THCIB-S-E-5A
+0031;0;old coin shop coin library;28;0;THCIB-S-E-5A
+0031;0;old coins bills;29;0;THCIB-S-E-5A
+0031;0;old coins price guide;30;0;THCIB-S-E-5A
+0031;0;coins old pennies;31;0;THCIB-S-E-5A
+0031;0;clean old coins;32;0;THCIB-S-E-5A
+0031;0;coin value old;33;0;THCIB-S-E-5A
+0031;0;old canadian coins;34;0;THCIB-S-E-5A
+0031;0;how to get old maple coins in maplestory;35;0;THCIB-S-E-5A
+0031;0;pages of old coins;36;0;THCIB-S-E-5A
+0031;0;where to look for old coins;37;0;THCIB-S-E-5A
+0031;0;old gold coins;38;0;THCIB-S-E-5A
+0031;0;old coins from around the world;39;0;THCIB-S-E-5A
+0031;0;coins old value;40;0;THCIB-S-E-5A
+0031;0;old coins sell;41;0;THCIB-S-E-5A
+0031;0;old us coins for sale;42;0;THCIB-S-E-5A
+0031;0;why are there holes in old coins;43;0;THCIB-S-E-5A
+0031;0;us old coins;44;0;THCIB-S-E-5A
+0031;0;coins old india;45;0;THCIB-S-E-5A
+0032;0;you can quit smoking now (smokefree;01;0;THCIB-S-E-5A
+0032;0;tobacco cessation - you can quit smoking now;02;0;THCIB-S-E-5A
+0032;0;how to quit smoking;03;0;THCIB-S-E-5A
+0032;0;ways to quit smoking;04;0;THCIB-S-E-5A
+0032;0;quit smoking health care provider and system interventions;05;0;THCIB-S-E-5A
+0032;0;quit smoking hypnosis;06;0;THCIB-S-E-5A
+0032;0;quit smoking products;07;0;THCIB-S-E-5A
+0032;0;quit smoking pill;08;0;THCIB-S-E-5A
+0032;0;quit smoking today;09;0;THCIB-S-E-5A
+0032;0;quit smoking benefits;10;0;THCIB-S-E-5A
+0032;0;quit smoking cold turkey;11;0;THCIB-S-E-5A
+0032;0;quit smoking side effects;12;0;THCIB-S-E-5A
+0032;0;quit smoking timeline;13;0;THCIB-S-E-5A
+0032;0;nicotine replacement therapy to quit smoking;14;0;THCIB-S-E-5A
+0032;0;quit smoking tips;15;0;THCIB-S-E-5A
+0032;0;quitsmokingsupport;16;0;THCIB-S-E-5A
+0032;0;the people behind quitsmoking;17;0;THCIB-S-E-5A
+0032;0;quitsmoking : messages : 284330-284359 of 284359;18;0;THCIB-S-E-5A
+0032;0;quit smoking help;19;0;THCIB-S-E-5A
+0032;0;quit smoking community interventions;20;0;THCIB-S-E-5A
+0032;0;strange ways to quit smoking;21;0;THCIB-S-E-5A
+0032;0;quit smoking smoking cessation in special populations;22;0;THCIB-S-E-5A
+0032;0;quit smoking (my name is earl);23;0;THCIB-S-E-5A
+0032;0;quit smoking aids;24;0;THCIB-S-E-5A
+0032;0;quit smoking - health canada;25;0;THCIB-S-E-5A
+0032;0;quit smoking calculator;26;0;THCIB-S-E-5A
+0032;0;benefits quitting smoking;27;0;THCIB-S-E-5A
+0032;0;quit smoking patch;28;0;THCIB-S-E-5A
+0032;0;quit smoking effects;29;0;THCIB-S-E-5A
+0032;0;what happens when you quit smoking;30;0;THCIB-S-E-5A
+0032;0;quit smoking cut down to quit;31;0;THCIB-S-E-5A
+0032;0;quit smoking alternative approaches;32;0;THCIB-S-E-5A
+0032;0;home > cancer care > quit smoking: 10 tips;33;0;THCIB-S-E-5A
+0032;0;quitsmokingmessageboard.com index page;34;0;THCIB-S-E-5A
+0032;0;quit smoking for free;35;0;THCIB-S-E-5A
+0032;0;quit smoking weight gain;36;0;THCIB-S-E-5A
+0032;0;how to quit smoking information;37;0;THCIB-S-E-5A
+0032;0;best ways to quit smoking;38;0;THCIB-S-E-5A
+0032;0;quit smoking children and adolescents;39;0;THCIB-S-E-5A
+0032;0;quit smoking depression;40;0;THCIB-S-E-5A
+0032;0;quit smoking cigarettes;41;0;THCIB-S-E-5A
+0032;0;quit smoking zyban;42;0;THCIB-S-E-5A
+0032;0;quit smoking laser;43;0;THCIB-S-E-5A
+0032;0;benefits of quitting smoking;44;0;THCIB-S-E-5A
+0032;0;quit smoking duration of nicotine withdrawal symptoms;45;0;THCIB-S-E-5A
+0033;0;kansas city mo newspaper;01;0;THCIB-S-E-5A
+0033;0;kansas city mo economy;02;0;THCIB-S-E-5A
+0033;0;kansas city mo weather;03;0;THCIB-S-E-5A
+0033;0;kansas city mo government;04;0;THCIB-S-E-5A
+0033;0;kansas city mo school district;05;0;THCIB-S-E-5A
+0033;0;kansas city monarchs;06;0;THCIB-S-E-5A
+0033;0;businesses in kansas city, mo;07;0;THCIB-S-E-5A
+0033;0;kansas city mo zip code;08;0;THCIB-S-E-5A
+0033;0;kansas city mo ks;09;0;THCIB-S-E-5A
+0033;0;kansas city mo walkability;10;0;THCIB-S-E-5A
+0033;0;kansas city mo hotels;11;0;THCIB-S-E-5A
+0033;0;kansas city mo airports;12;0;THCIB-S-E-5A
+0033;0;kansas city mo attractions;13;0;THCIB-S-E-5A
+0033;0;kansas city mo performing arts;14;0;THCIB-S-E-5A
+0033;0;kansas city mo police department;15;0;THCIB-S-E-5A
+0033;0;beast kansas city mo the;16;0;THCIB-S-E-5A
+0033;0;kansas city movies;17;0;THCIB-S-E-5A
+0033;0;kansas city mo media;18;0;THCIB-S-E-5A
+0033;0;kansas city mo news;19;0;THCIB-S-E-5A
+0033;0;missouri gas energy kansas city mo;20;0;THCIB-S-E-5A
+0033;0;kansas city mo homepage;21;0;THCIB-S-E-5A
+0033;0;kansas city mo history;22;0;THCIB-S-E-5A
+0033;0;movie in kansas city mo;23;0;THCIB-S-E-5A
+0033;0;kansas city mo map;24;0;THCIB-S-E-5A
+0033;0;jobs in kansas city mo;25;0;THCIB-S-E-5A
+0033;0;kansas city, mo guide;26;0;THCIB-S-E-5A
+0033;0;kansas city mo downtown;27;0;THCIB-S-E-5A
+0033;0;things to do in kansas city mo;28;0;THCIB-S-E-5A
+0033;0;kansas city mo culture;29;0;THCIB-S-E-5A
+0033;0;kansas city mo pd;30;0;THCIB-S-E-5A
+0033;0;the beast kansas city mo;31;0;THCIB-S-E-5A
+0033;0;kansas city movie theaters;32;0;THCIB-S-E-5A
+0033;0;kansas city mo print media;33;0;THCIB-S-E-5A
+0033;0;city of kansas city mo;34;0;THCIB-S-E-5A
+0033;0;kansas city mo city government;35;0;THCIB-S-E-5A
+0033;0;kansas city missouri events;36;0;THCIB-S-E-5A
+0033;0;kansas city mo city market;37;0;THCIB-S-E-5A
+0033;0;commercial in kansas city mo;38;0;THCIB-S-E-5A
+0033;0;kansas city mo population;39;0;THCIB-S-E-5A
+0033;0;view all honeywell jobs in kansas city, mo;40;0;THCIB-S-E-5A
+0033;0;4 miles away in kansas city, mo;41;0;THCIB-S-E-5A
+0033;0;kansas city mo points of interest;42;0;THCIB-S-E-5A
+0033;0;kansas city mo mci;43;0;THCIB-S-E-5A
+0033;0;entertainment in kansas city mo;44;0;THCIB-S-E-5A
+0033;0;kansas city mo irish culture;45;0;THCIB-S-E-5A
+0034;0;civil rights movement tennessee state;01;0;THCIB-S-E-5A
+0034;0;causes of the civil right movement;02;0;THCIB-S-E-5A
+0034;0;american civil right movement;03;0;THCIB-S-E-5A
+0034;0;civil rights movement leaders;04;0;THCIB-S-E-5A
+0034;0;civil right movement 1960;05;0;THCIB-S-E-5A
+0034;0;timelines related to the civil rights movement;06;0;THCIB-S-E-5A
+0034;0;who was in the civil right movement;07;0;THCIB-S-E-5A
+0034;0;civil rights movement timeline;08;0;THCIB-S-E-5A
+0034;0;civil right movement for kids;09;0;THCIB-S-E-5A
+0034;0;wdas radio's enduring impact on the civil rights movement;10;0;THCIB-S-E-5A
+0034;0;civil rights movement people;11;0;THCIB-S-E-5A
+0034;0;definition of civil rights movement;12;0;THCIB-S-E-5A
+0034;0;civil rights movement songs;13;0;THCIB-S-E-5A
+0034;0;civil rights movement pictures;14;0;THCIB-S-E-5A
+0034;0;civil rights movement - wikipedia, the free encyclopedia;15;0;THCIB-S-E-5A
+0034;0;movement civil rights us;16;0;THCIB-S-E-5A
+0034;0;civil right of movement;17;0;THCIB-S-E-5A
+0034;0;civil right movement essay;18;0;THCIB-S-E-5A
+0034;0;civil right movement 1950 to1960;19;0;THCIB-S-E-5A
+0034;0;civil rights movement for women in the 1960's;20;0;THCIB-S-E-5A
+0034;0;civil rights movement in america;21;0;THCIB-S-E-5A
+0034;0;civil right movement for women;22;0;THCIB-S-E-5A
+0034;0;civil rights movement in florida;23;0;THCIB-S-E-5A
+0034;0;civil rights movement veterans;24;0;THCIB-S-E-5A
+0034;0;heroes of civil rights movement;25;0;THCIB-S-E-5A
+0034;0;grassroots movement civil rights;26;0;THCIB-S-E-5A
+0034;0;civil rights movement images;27;0;THCIB-S-E-5A
+0034;0;civil+rights+movement - legal dictionary - the free dictionary;28;0;THCIB-S-E-5A
+0034;0;timeline of the civil right movement;29;0;THCIB-S-E-5A
+0034;0;black civil right movement;30;0;THCIB-S-E-5A
+0034;0;civil right movement quotes;31;0;THCIB-S-E-5A
+0034;0;civil rights movement of 1960;32;0;THCIB-S-E-5A
+0034;0;kennedy was president during the 1960's civil rights movement;33;0;THCIB-S-E-5A
+0034;0;civil right movement in the united states;34;0;THCIB-S-E-5A
+0034;0;timeline of civil rights movement;35;0;THCIB-S-E-5A
+0034;0;definition for civil right movement;36;0;THCIB-S-E-5A
+0034;0;the civil rights movement 1955-1965: introduction;37;0;THCIB-S-E-5A
+0034;0;people of civil rights movement;38;0;THCIB-S-E-5A
+0034;0;mother of civil rights movement;39;0;THCIB-S-E-5A
+0034;0;williamston movement civil rights;40;0;THCIB-S-E-5A
+0034;0;pictures of the civil rights movement;41;0;THCIB-S-E-5A
+0034;0;civil disobedience movement civil rights;42;0;THCIB-S-E-5A
+0034;0;timeline for the civil right movement;43;0;THCIB-S-E-5A
+0034;0;civil right movement facts;44;0;THCIB-S-E-5A
+0034;0;photos of civil rights movement;45;0;THCIB-S-E-5A
+0035;0;credit report score;01;0;THCIB-S-E-5A
+0035;0;free credit report;02;0;THCIB-S-E-5A
+0035;0;credit reporting;03;0;THCIB-S-E-5A
+0035;0;credit report gov;04;0;THCIB-S-E-5A
+0035;0;equifax credit report;05;0;THCIB-S-E-5A
+0035;0;credit report monitoring;06;0;THCIB-S-E-5A
+0035;0;credit report companies;07;0;THCIB-S-E-5A
+0035;0;credit report disputes;08;0;THCIB-S-E-5A
+0035;0;credit report agencies;09;0;THCIB-S-E-5A
+0035;0;dscc credit report incident;10;0;THCIB-S-E-5A
+0035;0;credit report information;11;0;THCIB-S-E-5A
+0035;0;annual credit report;12;0;THCIB-S-E-5A
+0035;0;missing accounts on your credit report;13;0;THCIB-S-E-5A
+0035;0;weekly alerts of any changes to your credit report;14;0;THCIB-S-E-5A
+0035;0;credit report adverse credit;15;0;THCIB-S-E-5A
+0035;0;credit report dispute letter;16;0;THCIB-S-E-5A
+0035;0;credit reports: how credit reporting agencies create your report;17;0;THCIB-S-E-5A
+0035;0;dscc credit report scandal;18;0;THCIB-S-E-5A
+0035;0;credit report reviews;19;0;THCIB-S-E-5A
+0035;0;credit reports from all three bureaus;20;0;THCIB-S-E-5A
+0035;0;credit report errors;21;0;THCIB-S-E-5A
+0035;0;my credit report - member login | credit report;22;0;THCIB-S-E-5A
+0035;0;business credit report;23;0;THCIB-S-E-5A
+0035;0;michael steele credit report incident;24;0;THCIB-S-E-5A
+0035;0;credit report repair;25;0;THCIB-S-E-5A
+0035;0;credit report government;26;0;THCIB-S-E-5A
+0035;0;dispute credit report;27;0;THCIB-S-E-5A
+0035;0;balance ~ our services ~ credit report review;28;0;THCIB-S-E-5A
+0035;0;3 in 1 credit report;29;0;THCIB-S-E-5A
+0035;0;credit report free;30;0;THCIB-S-E-5A
+0035;0;fair credit reporting act;31;0;THCIB-S-E-5A
+0035;0;transunion credit report;32;0;THCIB-S-E-5A
+0035;0;check your credit report;33;0;THCIB-S-E-5A
+0035;0;credit reports, credit scores, identity theft protection from equifax;34;0;THCIB-S-E-5A
+0035;0;company credit report;35;0;THCIB-S-E-5A
+0035;0;one time credit report;36;0;THCIB-S-E-5A
+0035;0;equifax free credit report;37;0;THCIB-S-E-5A
+0035;0;credit reporting agency;38;0;THCIB-S-E-5A
+0035;0;annual credit report scam;39;0;THCIB-S-E-5A
+0035;0;a record of who has seen your credit report;40;0;THCIB-S-E-5A
+0035;0;credit report basics and education from experian.com;41;0;THCIB-S-E-5A
+0036;0;unc wilmington;01;0;THCIB-S-E-5A
+0036;0;unc basketball;02;0;THCIB-S-E-5A
+0036;0;unc school of medicine;03;0;THCIB-S-E-5A
+0036;0;unc chapel hill;04;0;THCIB-S-E-5A
+0036;0;university of northern colorado;05;0;THCIB-S-E-5A
+0036;0;unc nunkie;06;0;THCIB-S-E-5A
+0036;0;unc asheville;07;0;THCIB-S-E-5A
+0036;0;unc paths;08;0;THCIB-S-E-5A
+0036;0;national university of cajamarca;09;0;THCIB-S-E-5A
+0036;0;unc charlotte;10;0;THCIB-S-E-5A
+0036;0;united national congress;11;0;THCIB-S-E-5A
+0036;0;unc hospitals;12;0;THCIB-S-E-5A
+0036;0;universidad nacional de cuyo;13;0;THCIB-S-E-5A
+0036;0;university of nueva caceres;14;0;THCIB-S-E-5A
+0036;0;union nationale camerounaise;15;0;THCIB-S-E-5A
+0036;0;unc - wikipedia, the free encyclopedia;16;0;THCIB-S-E-5A
+0036;0;unc australian rules football club;17;0;THCIB-S-E-5A
+0036;0;join the unc-tv community;18;0;THCIB-S-E-5A
+0036;0;united nations command (korea);19;0;THCIB-S-E-5A
+0036;0;list of airports by iata code: u|iata code;20;0;THCIB-S-E-5A
+0036;0;unc greensboro;21;0;THCIB-S-E-5A
+0036;0;unc football;22;0;THCIB-S-E-5A
+0036;0;university of north carolina at chapel hill;23;0;THCIB-S-E-5A
+0036;0;unc student congress;24;0;THCIB-S-E-5A
+0036;0;university of northern colorado student life;25;0;THCIB-S-E-5A
+0036;0;unified national coarse;26;0;THCIB-S-E-5A
+0036;0;uniform naming convention;27;0;THCIB-S-E-5A
+0036;0;unc health care;28;0;THCIB-S-E-5A
+0036;0;unc wilmington seahawks men's basketball;29;0;THCIB-S-E-5A
+0036;0;unc-tv online - north carolina's statewide television network;30;0;THCIB-S-E-5A
+0036;0;unc aussie rules football;31;0;THCIB-S-E-5A
+0036;0;unc-tv online: north carolina now;32;0;THCIB-S-E-5A
+0036;0;united nations command (korea) 1953 onwards;33;0;THCIB-S-E-5A
+0036;0;unc athletics;34;0;THCIB-S-E-5A
+0036;0;unc tar heel;35;0;THCIB-S-E-5A
+0036;0;unc school of law;36;0;THCIB-S-E-5A
+0036;0;unc department;37;0;THCIB-S-E-5A
+0036;0;university of northern colorado other;38;0;THCIB-S-E-5A
+0036;0;university of northern colorado presidents;39;0;THCIB-S-E-5A
+0036;0;unified national coarse notes;40;0;THCIB-S-E-5A
+0037;0;languages of vanuatu;01;0;THCIB-S-E-5A
+0037;0;port vila, vanuatu;02;0;THCIB-S-E-5A
+0037;0;vanuatu map;03;0;THCIB-S-E-5A
+0037;0;vanuatutourism;04;0;THCIB-S-E-5A
+0037;0;vanuatu government;05;0;THCIB-S-E-5A
+0037;0;vanuatu weather;06;0;THCIB-S-E-5A
+0037;0;islands of vanuatu;07;0;THCIB-S-E-5A
+0037;0;vanuatu islands;08;0;THCIB-S-E-5A
+0037;0;air vanuatu;09;0;THCIB-S-E-5A
+0037;0;vanuatu at the 2011 pacific games;10;0;THCIB-S-E-5A
+0037;0;facts about vanuatu;11;0;THCIB-S-E-5A
+0037;0;republic of vanuatu;12;0;THCIB-S-E-5A
+0037;0;vanuatu cultural centre;13;0;THCIB-S-E-5A
+0037;0;vanuatu earthquakes;14;0;THCIB-S-E-5A
+0037;0;football in vanuatu;15;0;THCIB-S-E-5A
+0037;0;list of cities in vanuatu;16;0;THCIB-S-E-5A
+0037;0;north vanuatu languages;17;0;THCIB-S-E-5A
+0037;0;cricket in vanuatu;18;0;THCIB-S-E-5A
+0037;0;vanuatu sport;19;0;THCIB-S-E-5A
+0037;0;vanuatu - wikipedia, the free encyclopedia;20;0;THCIB-S-E-5A
+0037;0;vanuatu kingfisher;21;0;THCIB-S-E-5A
+0037;0;music of vanuatu;22;0;THCIB-S-E-5A
+0037;0;vanuatu hotels;23;0;THCIB-S-E-5A
+0037;0;vanuatu real estate;24;0;THCIB-S-E-5A
+0037;0;vanuatu daily post;25;0;THCIB-S-E-5A
+0037;0;list of world heritage sites in vanuatu;26;0;THCIB-S-E-5A
+0037;0;2009 vanuatu census;27;0;THCIB-S-E-5A
+0037;0;internet in vanuatu;28;0;THCIB-S-E-5A
+0037;0;history of vanuatu;29;0;THCIB-S-E-5A
+0037;0;capital of vanuatu;30;0;THCIB-S-E-5A
+0037;0;reserve bank of vanuatu;31;0;THCIB-S-E-5A
+0037;0;president of vanuatu;32;0;THCIB-S-E-5A
+0037;0;scouting in vanuatu;33;0;THCIB-S-E-5A
+0037;0;united states ambassador to vanuatu;34;0;THCIB-S-E-5A
+0037;0;vanuatu national union of students;35;0;THCIB-S-E-5A
+0037;0;vanuatu vatu;36;0;THCIB-S-E-5A
+0037;0;vanuatu kava;37;0;THCIB-S-E-5A
+0037;0;transportation in vanuatu;38;0;THCIB-S-E-5A
+0037;0;list of ambassadors of russia to vanuatu;39;0;THCIB-S-E-5A
+0037;0;cruise vanuatu;40;0;THCIB-S-E-5A
+0037;0;cabinet of vanuatu;41;0;THCIB-S-E-5A
+0037;0;republique de vanuatu;42;0;THCIB-S-E-5A
+0037;0;the icrc in vanuatu;43;0;THCIB-S-E-5A
+0037;0;biogeographic breaks in vanuatu, a nascent oceanic archipelago;44;0;THCIB-S-E-5A
+0037;0;bbc news - vanuatu profile - timeline;45;0;THCIB-S-E-5A
+0038;0;internet phone service provider;01;0;THCIB-S-E-5A
+0038;0;internet phone service free;02;0;THCIB-S-E-5A
+0038;0;uk voip internet phone service;03;0;THCIB-S-E-5A
+0038;0;home internet phone services;04;0;THCIB-S-E-5A
+0038;0;internet phone service for business;05;0;THCIB-S-E-5A
+0038;0;internet phone service reviews;06;0;THCIB-S-E-5A
+0038;0;internet phone service google;07;0;THCIB-S-E-5A
+0038;0;internet phone service skype;08;0;THCIB-S-E-5A
+0038;0;verizon internet phone service;09;0;THCIB-S-E-5A
+0038;0;internet phone service comparison;10;0;THCIB-S-E-5A
+0038;0;internet phone service ooma;11;0;THCIB-S-E-5A
+0038;0;voip internet phone service;12;0;THCIB-S-E-5A
+0038;0;internet phone service security;13;0;THCIB-S-E-5A
+0038;0;internet phone service for small businesses;14;0;THCIB-S-E-5A
+0038;0;internet phone service pronunciation;15;0;THCIB-S-E-5A
+0038;0;internet phone service verison;16;0;THCIB-S-E-5A
+0038;0;mobile internet | internet phone service | lebara;17;0;THCIB-S-E-5A
+0038;0;internet phone service magic jack;18;0;THCIB-S-E-5A
+0038;0;vonage internet phone service;19;0;THCIB-S-E-5A
+0038;0;internet phone service online;20;0;THCIB-S-E-5A
+0038;0;support for lingo internet phone service;21;0;THCIB-S-E-5A
+0038;0;internet phone service historical milestones;22;0;THCIB-S-E-5A
+0038;0;best internet phone service;23;0;THCIB-S-E-5A
+0038;0;direcpath - tv, directv, high-speed internet, phone service;24;0;THCIB-S-E-5A
+0038;0;internet phone service video;25;0;THCIB-S-E-5A
+0038;0;internet phone service support for other telephony devices;26;0;THCIB-S-E-5A
+0038;0;residential internet phone service - viatalk;27;0;THCIB-S-E-5A
+0038;0;callcentric internet phone service;28;0;THCIB-S-E-5A
+0038;0;skype internet phone service;29;0;THCIB-S-E-5A
+0038;0;clearwire internet phone service;30;0;THCIB-S-E-5A
+0038;0;sunrocket internet phone service;31;0;THCIB-S-E-5A
+0038;0;magicjack internet phone service;32;0;THCIB-S-E-5A
+0038;0;teleblend internet phone service;33;0;THCIB-S-E-5A
+0038;0;cable internet phone service;34;0;THCIB-S-E-5A
+0038;0;is internet phone service for you;35;0;THCIB-S-E-5A
+0038;0;tesco internet phone service;36;0;THCIB-S-E-5A
+0038;0;skype the internet phone service;37;0;THCIB-S-E-5A
+0038;0;internet phone service canada;38;0;THCIB-S-E-5A
+0038;0;internet phone service like magicjack;39;0;THCIB-S-E-5A
+0038;0;voip providers;40;0;THCIB-S-E-5A
+0038;0;digital internet phone service;41;0;THCIB-S-E-5A
+0038;0;internet phone service with 3wrel;42;0;THCIB-S-E-5A
+0038;0;internet phone service - small business solutions;43;0;THCIB-S-E-5A
+0038;0;iconnectvoice - internet phone service voip;44;0;THCIB-S-E-5A
+0039;0;gs pay rate table;01;0;THCIB-S-E-5A
+0039;0;gs 04 pay rate;02;0;THCIB-S-E-5A
+0039;0;pay rate of gs-7;03;0;THCIB-S-E-5A
+0039;0;2011 gs pay rates;04;0;THCIB-S-E-5A
+0039;0;gs pay rate hourly;05;0;THCIB-S-E-5A
+0039;0;gs pay rates locality;06;0;THCIB-S-E-5A
+0039;0;gs pay rates for 2010;07;0;THCIB-S-E-5A
+0039;0;pay rate gs 15;08;0;THCIB-S-E-5A
+0039;0;gs pay rate 2012;09;0;THCIB-S-E-5A
+0039;0;bank savings interest rate calculator pay per day;10;0;THCIB-S-E-5A
+0039;0;what is gs pay locality rate based on;11;0;THCIB-S-E-5A
+0039;0;gs pay rate columbus ohio;12;0;THCIB-S-E-5A
+0039;0;pay rate of gs-5;13;0;THCIB-S-E-5A
+0039;0;gs 10 pay scale hourly rate;14;0;THCIB-S-E-5A
+0039;0;gs rates of pay;15;0;THCIB-S-E-5A
+0039;0;savings fixedrate bonds pay four times the instantaccess rate;16;0;THCIB-S-E-5A
+0039;0;gs pay rate dc;17;0;THCIB-S-E-5A
+0039;0;special rate gs pay scale 2009;18;0;THCIB-S-E-5A
+0039;0;pay rate for gs-5;19;0;THCIB-S-E-5A
+0039;0;gs pay rates fy 11;20;0;THCIB-S-E-5A
+0039;0;gs-10 pay rate;21;0;THCIB-S-E-5A
+0039;0;gs 7 pay rates;22;0;THCIB-S-E-5A
+0039;0;pay rates for gs;23;0;THCIB-S-E-5A
+0039;0;money market savings account rate canada pay america;24;0;THCIB-S-E-5A
+0039;0;gs pay rate overseas;25;0;THCIB-S-E-5A
+0039;0;gs 5 pay rate;26;0;THCIB-S-E-5A
+0039;0;pay rate of gs-11;27;0;THCIB-S-E-5A
+0039;0;gs pay rates step increase years;28;0;THCIB-S-E-5A
+0039;0;bank with higest savings interest rate pay policy;29;0;THCIB-S-E-5A
+0039;0;gs pay rate federal employees;30;0;THCIB-S-E-5A
+0039;0;pay rate gs 5;31;0;THCIB-S-E-5A
+0039;0;gs-13 rate of pay;32;0;THCIB-S-E-5A
+0039;0;gs pay rates washington dc;33;0;THCIB-S-E-5A
+0039;0;gs hourly pay rate;34;0;THCIB-S-E-5A
+0039;0;opm gs rates of pay;35;0;THCIB-S-E-5A
+0039;0;pay rate for gs 12;36;0;THCIB-S-E-5A
+0039;0;pay rate gs 8;37;0;THCIB-S-E-5A
+0039;0;pay rate for gs-9;38;0;THCIB-S-E-5A
+0039;0;2007 general schedule gs annual pay rates;39;0;THCIB-S-E-5A
+0039;0;hourly rate gs pay scale;40;0;THCIB-S-E-5A
+0039;0;pay-setting examples involving special salary rates;41;0;THCIB-S-E-5A
+0039;0;gs rate pay 2011;42;0;THCIB-S-E-5A
+0039;0;pay rate for gs 7;43;0;THCIB-S-E-5A
+0039;0;pay rate of gs-12;44;0;THCIB-S-E-5A
+0039;0;2007 general schedule gs hourly pay rates;45;0;THCIB-S-E-5A
+0040;0;brooks brothers summer clearance 2011;01;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance store;02;0;THCIB-S-E-5A
+0040;0;brooks brothers online clearance event 60 off;03;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance items;04;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance shirts;05;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance center;06;0;THCIB-S-E-5A
+0040;0;brooks brothers winter clearance sale;07;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance ties;08;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance: up to 500ff clearance - deals;09;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance sales;10;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance | the preppy princess;11;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance women's;12;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance outlet;13;0;THCIB-S-E-5A
+0040;0;shop brooks brothers clearance - save up to 60;14;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance and coupon code;15;0;THCIB-S-E-5A
+0040;0;brooks brothers - clearance dress shirts;16;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance suits;17;0;THCIB-S-E-5A
+0040;0;clearance brooks brothers ties;18;0;THCIB-S-E-5A
+0040;0;brooks brothers garland clearance center;19;0;THCIB-S-E-5A
+0040;0;brooks brothers - clearance sale: up to 600ff;20;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance event;21;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance ftw;22;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance return policy;23;0;THCIB-S-E-5A
+0040;0;clearance brooks brothers shirts;24;0;THCIB-S-E-5A
+0040;0;brooks brothers summer clearance sale;25;0;THCIB-S-E-5A
+0040;0;brooks brothers winter clearance;26;0;THCIB-S-E-5A
+0040;0;shop brooks brothers clearance;27;0;THCIB-S-E-5A
+0040;0;quick picks: brooks brothers online only clearance;28;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance up to 60 off;29;0;THCIB-S-E-5A
+0040;0;brooks brothers 150ff select clearance items coupon code;30;0;THCIB-S-E-5A
+0040;0;brooks brothers women women s clearance clearance jewelry;31;0;THCIB-S-E-5A
+0040;0;brooks brothers suit sale, clearance, blowout;32;0;THCIB-S-E-5A
+0040;0;new brooks brothers - clearance prices;33;0;THCIB-S-E-5A
+0040;0;great shoes on clearance at brooks brothers;34;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance sale: up to 500ff - dealnews;35;0;THCIB-S-E-5A
+0040;0;brooks brothers summer clearance;36;0;THCIB-S-E-5A
+0040;0;brooks brothers clearance - thefind;37;0;THCIB-S-E-5A
+0040;0;clearance up to 60 off brooks brothers;38;0;THCIB-S-E-5A
+0040;0;brooks brothers winter clearance 500ff most items - slickdeals.net;39;0;THCIB-S-E-5A
+0040;0;brooks brothers men men s clearance clearance sport shirts;40;0;THCIB-S-E-5A
+0040;0;500ff brooks brothers winter clearance sale;41;0;THCIB-S-E-5A
+0040;0;500ff brooks brothers clearance sale: up to 500ff;42;0;THCIB-S-E-5A
+0040;0;brooks brothers weekend clearance;43;0;THCIB-S-E-5A
+0041;0;churchill downs schedule;01;0;THCIB-S-E-5A
+0041;0;churchill downs racing;02;0;THCIB-S-E-5A
+0041;0;list of graded stakes at churchill downs;03;0;THCIB-S-E-5A
+0041;0;churchill downs incorporated;04;0;THCIB-S-E-5A
+0041;0;churchill downs museum;05;0;THCIB-S-E-5A
+0041;0;churchill downs result;06;0;THCIB-S-E-5A
+0041;0;churchill downs seating chart;07;0;THCIB-S-E-5A
+0041;0;churchill downs racetrack;08;0;THCIB-S-E-5A
+0041;0;churchill downs entry;09;0;THCIB-S-E-5A
+0041;0;churchill downs - wikipedia, the free encyclopedia;10;0;THCIB-S-E-5A
+0041;0;june, 2012 | churchill downs;11;0;THCIB-S-E-5A
+0041;0;churchill downs tornado;12;0;THCIB-S-E-5A
+0041;0;churchill downs race results;13;0;THCIB-S-E-5A
+0041;0;graded stakes at churchill downs;14;0;THCIB-S-E-5A
+0041;0;churchill downs inc.;15;0;THCIB-S-E-5A
+0041;0;churchill downs gift shop;16;0;THCIB-S-E-5A
+0041;0;churchill downs, kentucky derby, nbc;17;0;THCIB-S-E-5A
+0041;0;churchill downs tickets;18;0;THCIB-S-E-5A
+0041;0;onto the churchill downs racetrack;19;0;THCIB-S-E-5A
+0041;0;churchill downs breeders cup;20;0;THCIB-S-E-5A
+0041;0;promotions | churchill downs entertainment;21;0;THCIB-S-E-5A
+0041;0;churchill downs history;22;0;THCIB-S-E-5A
+0041;0;police id body found at churchill downs;23;0;THCIB-S-E-5A
+0041;0;churchill downs (chdn);24;0;THCIB-S-E-5A
+0041;0;churchill downs, louisville;25;0;THCIB-S-E-5A
+0041;0;churchill downs stakes;26;0;THCIB-S-E-5A
+0041;0;churchill downs address;27;0;THCIB-S-E-5A
+0041;0;churchill downs | linkedin;28;0;THCIB-S-E-5A
+0041;0;file:churchill downs.jpg - wikipedia, the free encyclopedia;29;0;THCIB-S-E-5A
+0041;0;churchill downs kentucky;30;0;THCIB-S-E-5A
+0041;0;04 miles from churchill downs;31;0;THCIB-S-E-5A
+0041;0;2012 stephen foster day at churchill downs;32;0;THCIB-S-E-5A
+0041;0;chdn stock price today - churchill downs inc;33;0;THCIB-S-E-5A
+0041;0;churchill downs 2;34;0;THCIB-S-E-5A
+0041;0;churchill downs turf sprint stakes;35;0;THCIB-S-E-5A
+0041;0;home > venues >churchill downs tickets;36;0;THCIB-S-E-5A
+0041;0;churchill downs racetrack info;37;0;THCIB-S-E-5A
+0041;0;churchill downs profile - the business journals;38;0;THCIB-S-E-5A
+0041;0;kentucky oaks churchill downs;39;0;THCIB-S-E-5A
+0041;0;churchill downs racing schedule;40;0;THCIB-S-E-5A
+0041;0;at churchill downs;41;0;THCIB-S-E-5A
+0041;0;churchill downs (chdn): zacks rank buy;42;0;THCIB-S-E-5A
+0041;0;churchill downs churchill downs louisville;43;0;THCIB-S-E-5A
+0041;0;churchill downs churchill downs entries churchill downs horse;44;0;THCIB-S-E-5A
+0041;0;churchill downs seating;45;0;THCIB-S-E-5A
+0042;0;condos in florida keys for sale;01;0;THCIB-S-E-5A
+0042;0;cheap condos in florida;02;0;THCIB-S-E-5A
+0042;0;condos in florida for rent;03;0;THCIB-S-E-5A
+0042;0;find florida homes and condos now;04;0;THCIB-S-E-5A
+0042;0;condos in orlando florida;05;0;THCIB-S-E-5A
+0042;0;beach war over trump condos in florida;06;0;THCIB-S-E-5A
+0042;0;coastlinecondos - destin florida pet friendly condos;07;0;THCIB-S-E-5A
+0042;0;condos in destin florida;08;0;THCIB-S-E-5A
+0042;0;condos in florida panhandle;09;0;THCIB-S-E-5A
+0042;0;condos in florida on the beach;10;0;THCIB-S-E-5A
+0042;0;foreclosure condos in florida;11;0;THCIB-S-E-5A
+0042;0;condos in florida keys;12;0;THCIB-S-E-5A
+0042;0;condos florida indian rocks;13;0;THCIB-S-E-5A
+0042;0;condos for sale in florida;14;0;THCIB-S-E-5A
+0042;0;condos in florida beach;15;0;THCIB-S-E-5A
+0042;0;condos for rent in florida;16;0;THCIB-S-E-5A
+0042;0;florida real estate listing on floridahomesandcondoscanada;17;0;THCIB-S-E-5A
+0042;0;condos in florida under 50 000;18;0;THCIB-S-E-5A
+0042;0;condos in south florida;19;0;THCIB-S-E-5A
+0042;0;destin florida condos for sale;20;0;THCIB-S-E-5A
+0042;0;condos in panama city florida;21;0;THCIB-S-E-5A
+0042;0;foreclosures in florida condos;22;0;THCIB-S-E-5A
+0042;0;florida condos in the keys;23;0;THCIB-S-E-5A
+0042;0;condos florida intercoastal;24;0;THCIB-S-E-5A
+0042;0;oceanfront condos in florida;25;0;THCIB-S-E-5A
+0042;0;condos in florida for sale;26;0;THCIB-S-E-5A
+0042;0;condos in naples florida;27;0;THCIB-S-E-5A
+0042;0;condos in florida orlando;28;0;THCIB-S-E-5A
+0042;0;fha approved condos in florida;29;0;THCIB-S-E-5A
+0042;0;destin florida condos;30;0;THCIB-S-E-5A
+0042;0;condos in florida destin;31;0;THCIB-S-E-5A
+0042;0;condos in florida city florida;32;0;THCIB-S-E-5A
+0042;0;florida condos in destin on the beach;33;0;THCIB-S-E-5A
+0042;0;foreclosures of condos in florida;34;0;THCIB-S-E-5A
+0042;0;rental condos in florida keys;35;0;THCIB-S-E-5A
+0042;0;condos florida indian shores;36;0;THCIB-S-E-5A
+0042;0;senior condos in florida;37;0;THCIB-S-E-5A
+0042;0;new condos in florida;38;0;THCIB-S-E-5A
+0042;0;condos in florida for vacation;39;0;THCIB-S-E-5A
+0042;0;condos for in florida;40;0;THCIB-S-E-5A
+0042;0;condos in florida near disney world;41;0;THCIB-S-E-5A
+0042;0;prices of condos in florida;42;0;THCIB-S-E-5A
+0042;0;florida condo bargains;43;0;THCIB-S-E-5A
+0042;0;condos in florida gulf coast;44;0;THCIB-S-E-5A
+0042;0;condos in florida panama city;45;0;THCIB-S-E-5A
+0043;0;dog poop clean up bags;01;0;THCIB-S-E-5A
+0043;0;doggie clean up bags;02;0;THCIB-S-E-5A
+0043;0;free dog cleanup bags dispenser;03;0;THCIB-S-E-5A
+0043;0;wag bags doggie clean-up bags;04;0;THCIB-S-E-5A
+0043;0;dog clean up bags dispenser;05;0;THCIB-S-E-5A
+0043;0;dog-cleanup bags - martha stewart pets;06;0;THCIB-S-E-5A
+0043;0;pet waste bags for doggie poop cleanup;07;0;THCIB-S-E-5A
+0043;0;dog clean up bags free shipping;08;0;THCIB-S-E-5A
+0043;0;dog waste cleanup bags, pack of 40;09;0;THCIB-S-E-5A
+0043;0;dog clean-up bags, tools, waste products;10;0;THCIB-S-E-5A
+0043;0;san jose stops supplying doggie cleanup bags;11;0;THCIB-S-E-5A
+0043;0;dog clean up bags biodegradable;12;0;THCIB-S-E-5A
+0043;0;bags on board doggie clean up bags;13;0;THCIB-S-E-5A
+0043;0;dog poop cleanup waste bags;14;0;THCIB-S-E-5A
+0043;0;4 pack dog clean up bags;15;0;THCIB-S-E-5A
+0043;0;dog-cleanup bags - martha stewart living;16;0;THCIB-S-E-5A
+0043;0;dog clean up bags with handles;17;0;THCIB-S-E-5A
+0043;0;bags on board doggie clean up bags refill rolls;18;0;THCIB-S-E-5A
+0043;0;biodegradable pet waste bags, dog waste cleanup-harry barker, inc.;19;0;THCIB-S-E-5A
+0043;0;wag bags doggie clean up bags 18 count;20;0;THCIB-S-E-5A
+0043;0;home hardware - 30 pack dog clean up bags;21;0;THCIB-S-E-5A
+0043;0;sitstay poop cleanup bags - dog supplies;22;0;THCIB-S-E-5A
+0043;0;wag bags doggie clean-up bags multi-color pack;23;0;THCIB-S-E-5A
+0043;0;dog clean up bags - youtube;24;0;THCIB-S-E-5A
+0043;0;dog clean up bags - alibaba.com;25;0;THCIB-S-E-5A
+0043;0;shopping results for dog clean up bags;26;0;THCIB-S-E-5A
+0044;0;designer dog breeds hybrid;01;0;THCIB-S-E-5A
+0044;0;designer dog breeds is full of good information;02;0;THCIB-S-E-5A
+0044;0;designer dog breeds toy;03;0;THCIB-S-E-5A
+0044;0;designer dog breed list;04;0;THCIB-S-E-5A
+0044;0;different breeds designer dogs;05;0;THCIB-S-E-5A
+0044;0;designer dog breeds for sale;06;0;THCIB-S-E-5A
+0044;0;top designer dog breeds;07;0;THCIB-S-E-5A
+0044;0;small designer dog breeds;08;0;THCIB-S-E-5A
+0044;0;dogs 101 designer breeds;09;0;THCIB-S-E-5A
+0044;0;why designer dog breeds make me uncomfortable;10;0;THCIB-S-E-5A
+0044;0;designer dog breeds a-z;11;0;THCIB-S-E-5A
+0044;0;designer breeds of dog;12;0;THCIB-S-E-5A
+0044;0;designer dog breeds poodle;13;0;THCIB-S-E-5A
+0044;0;small designer breed dogs;14;0;THCIB-S-E-5A
+0044;0;designer dog breeds indiana;15;0;THCIB-S-E-5A
+0044;0;top designer breeds dogs;16;0;THCIB-S-E-5A
+0044;0;best designer dog breeds;17;0;THCIB-S-E-5A
+0044;0;designer toy dog breeds;18;0;THCIB-S-E-5A
+0044;0;designer mixed breed dogs;19;0;THCIB-S-E-5A
+0044;0;designer breeds dogs sale;20;0;THCIB-S-E-5A
+0044;0;rsm s guide to designer dog breeds;21;0;THCIB-S-E-5A
+0044;0;small breed designer dog breeds listing;22;0;THCIB-S-E-5A
+0044;0;toy breeds designer dogs;23;0;THCIB-S-E-5A
+0044;0;'designer' cross breeds dog breed health;24;0;THCIB-S-E-5A
+0044;0;designer breeds dogs pictures;25;0;THCIB-S-E-5A
+0044;0;maltese designer dog breeds;26;0;THCIB-S-E-5A
+0044;0;top 20 designer dog breeds;27;0;THCIB-S-E-5A
+0044;0;designer dog clothes - dog breed - youtube;28;0;THCIB-S-E-5A
+0044;0;are designer dog breeds healthier than purebreds;29;0;THCIB-S-E-5A
+0044;0;list of designer dog breeds;30;0;THCIB-S-E-5A
+0044;0;toy dog designer breeds;31;0;THCIB-S-E-5A
+0044;0;popular designer dogs | dog breed portal;32;0;THCIB-S-E-5A
+0044;0;puppy farms and designer dogs breeds;33;0;THCIB-S-E-5A
+0044;0;labradoodles and other designer dog breeds - youtube;34;0;THCIB-S-E-5A
+0044;0;10 most unusual designer dog breeds - woman's day;35;0;THCIB-S-E-5A
+0044;0;mixed up mutts, designer dog breeds;36;0;THCIB-S-E-5A
+0044;0;list of all designer dog breeds;37;0;THCIB-S-E-5A
+0044;0;designer dog collars for large breeds;38;0;THCIB-S-E-5A
+0044;0;designer dog breed names - wikiname;39;0;THCIB-S-E-5A
+0044;0;designer dogs puppies breeds information;40;0;THCIB-S-E-5A
+0044;0;crossbreeds, designer dogs, hybrid, mixed breeds puppies for sale;41;0;THCIB-S-E-5A
+0044;0;designer dog breeds - choosing the right dog forum;42;0;THCIB-S-E-5A
+0045;0;high pressure washers;01;0;THCIB-S-E-5A
+0045;0;pressure washers electric;02;0;THCIB-S-E-5A
+0045;0;industrial pressure washers;03;0;THCIB-S-E-5A
+0045;0;pressure washers home depot;04;0;THCIB-S-E-5A
+0045;0;pressure washers honda;05;0;THCIB-S-E-5A
+0045;0;pressure washers parts;06;0;THCIB-S-E-5A
+0045;0;karcher pressure washers;07;0;THCIB-S-E-5A
+0045;0;pressure washers for sale;08;0;THCIB-S-E-5A
+0045;0;pressure washers direct;09;0;THCIB-S-E-5A
+0045;0;pressure washers lowes;10;0;THCIB-S-E-5A
+0045;0;pressure washers sears;11;0;THCIB-S-E-5A
+0045;0;pressure washer reviews;12;0;THCIB-S-E-5A
+0045;0;pressure washers jetwashdirect;13;0;THCIB-S-E-5A
+0045;0;water pressure washers;14;0;THCIB-S-E-5A
+0045;0;pressure washers menards;15;0;THCIB-S-E-5A
+0045;0;gas pressure washers;16;0;THCIB-S-E-5A
+0045;0;huge range of pressure washers;17;0;THCIB-S-E-5A
+0045;0;home >cleaning >pressure washers;18;0;THCIB-S-E-5A
+0045;0;honda pressure washer;19;0;THCIB-S-E-5A
+0045;0;hotsy pressure washers;20;0;THCIB-S-E-5A
+0045;0;pressure washers uk;21;0;THCIB-S-E-5A
+0045;0;pressure washers on sale;22;0;THCIB-S-E-5A
+0045;0;troy built pressure washer;23;0;THCIB-S-E-5A
+0045;0;troy-bilt generators and pressure washers - customer service;24;0;THCIB-S-E-5A
+0045;0;commercial pressure washers;25;0;THCIB-S-E-5A
+0045;0;pressure washers costco;26;0;THCIB-S-E-5A
+0045;0;pressure washers walmart;27;0;THCIB-S-E-5A
+0045;0;welcome to manchester pressure washers and floor cleaning machines;28;0;THCIB-S-E-5A
+0045;0;husky pressure washers;29;0;THCIB-S-E-5A
+0045;0;best deals honda pressure washers;30;0;THCIB-S-E-5A
+0045;0;extension hose for 3,600 psi gas pressure washers;31;0;THCIB-S-E-5A
+0045;0;car pressure washers;32;0;THCIB-S-E-5A
+0045;0;large selection of pressure washers for sale;33;0;THCIB-S-E-5A
+0045;0;pressure washer buyer's guide - pressure washers direct;34;0;THCIB-S-E-5A
+0045;0;lowes pressure washers;35;0;THCIB-S-E-5A
+0045;0;craftsman pressure washer;36;0;THCIB-S-E-5A
+0045;0;pressure washers jetwashdirect lavor pressure washers power washers;37;0;THCIB-S-E-5A
+0045;0;gas-powered pressure washers;38;0;THCIB-S-E-5A
+0045;0;karcher pressure washer parts;39;0;THCIB-S-E-5A
+0045;0;pressure washers buying guide;40;0;THCIB-S-E-5A
+0045;0;7 pressure washers allied pressure washers;41;0;THCIB-S-E-5A
+0045;0;pressure washers rated;42;0;THCIB-S-E-5A
+0045;0;honda pressure washers psi;43;0;THCIB-S-E-5A
+0045;0;greensboro pressure washers reviews find pressure washers in;44;0;THCIB-S-E-5A
+0046;0;sore throat and cough;01;0;THCIB-S-E-5A
+0046;0;sore throat remedies;02;0;THCIB-S-E-5A
+0046;0;how is a sore throat diagnosed;03;0;THCIB-S-E-5A
+0046;0;sore throat for a week;04;0;THCIB-S-E-5A
+0046;0;sore throat symptoms;05;0;THCIB-S-E-5A
+0046;0;sore throat infections;06;0;THCIB-S-E-5A
+0046;0;acute sore throat;07;0;THCIB-S-E-5A
+0046;0;sore throat relief;08;0;THCIB-S-E-5A
+0046;0;sore throat swollen glands;09;0;THCIB-S-E-5A
+0046;0;sore throat treatments;10;0;THCIB-S-E-5A
+0046;0;streptococcal sore throat;11;0;THCIB-S-E-5A
+0046;0;sore throat causes;12;0;THCIB-S-E-5A
+0046;0;sore throat - wikipedia, the free encyclopedia;13;0;THCIB-S-E-5A
+0046;0;photos of sore throat;14;0;THCIB-S-E-5A
+0046;0;tylenol cold sore throat;15;0;THCIB-S-E-5A
+0046;0;sore throat at night;16;0;THCIB-S-E-5A
+0046;0;8 sore-throat soothers;17;0;THCIB-S-E-5A
+0046;0;sore throat no fever;18;0;THCIB-S-E-5A
+0046;0;soothe a sore throat;19;0;THCIB-S-E-5A
+0046;0;for your sore throat pain;20;0;THCIB-S-E-5A
+0046;0;sore throats are caused by infections, i;21;0;THCIB-S-E-5A
+0046;0;sore throat pharyngitis;22;0;THCIB-S-E-5A
+0046;0;persistent sore throat;23;0;THCIB-S-E-5A
+0046;0;target sore throat and mouth pain;24;0;THCIB-S-E-5A
+0046;0;sore throat on one side;25;0;THCIB-S-E-5A
+0046;0;sore throat (band);26;0;THCIB-S-E-5A
+0046;0;sore throat: what you need to know - mydr.com.au;27;0;THCIB-S-E-5A
+0046;0;sore throat pictures;28;0;THCIB-S-E-5A
+0046;0;sore throat tylenol;29;0;THCIB-S-E-5A
+0046;0;sore throat soothers | realsimple.com;30;0;THCIB-S-E-5A
+0046;0;sore throat and fever;31;0;THCIB-S-E-5A
+0046;0;sore throat cures;32;0;THCIB-S-E-5A
+0046;0;gargle whiskey to soothe a sore throat;33;0;THCIB-S-E-5A
+0046;0;sore throat sprays;34;0;THCIB-S-E-5A
+0046;0;sore throat: is it strep;35;0;THCIB-S-E-5A
+0046;0;viral sore throat;36;0;THCIB-S-E-5A
+0046;0;chronic sore throat;37;0;THCIB-S-E-5A
+0046;0;treating sore throat;38;0;THCIB-S-E-5A
+0046;0;maine 2007 sore throat;39;0;THCIB-S-E-5A
+0046;0;sore throat - symptoms, causes, treatments - better medicine;40;0;THCIB-S-E-5A
+0046;0;sore throat epidemiology;41;0;THCIB-S-E-5A
+0046;0;causes of sore throat;42;0;THCIB-S-E-5A
+0046;0;strepsils - the sore throat experts;43;0;THCIB-S-E-5A
+0046;0;anatomy of a sore throat;44;0;THCIB-S-E-5A
+0046;0;tylenol cough and sore throat;45;0;THCIB-S-E-5A
+0047;0;idaho state flower syringa;01;0;THCIB-S-E-5A
+0047;0;idaho state flower picture;02;0;THCIB-S-E-5A
+0047;0;idaho state flower and bird;03;0;THCIB-S-E-5A
+0047;0;idaho state flower information;04;0;THCIB-S-E-5A
+0047;0;idaho state flower name;05;0;THCIB-S-E-5A
+0047;0;20 nail decals idaho state flower decal new;06;0;THCIB-S-E-5A
+0047;0;idaho state flower mock orange;07;0;THCIB-S-E-5A
+0047;0;idaho state flower tree;08;0;THCIB-S-E-5A
+0047;0;idaho state flower photo;09;0;THCIB-S-E-5A
+0047;0;idaho state flower facts;10;0;THCIB-S-E-5A
+0047;0;name state flower idaho;11;0;THCIB-S-E-5A
+0047;0;history of idaho state flower;12;0;THCIB-S-E-5A
+0047;0;idaho state flower description;13;0;THCIB-S-E-5A
+0047;0;idaho state flower image;14;0;THCIB-S-E-5A
+0047;0;idaho state flower info;15;0;THCIB-S-E-5A
+0047;0;idaho state flower metal charm keychain from zazzle.com;16;0;THCIB-S-E-5A
+0047;0;state flower of idaho;17;0;THCIB-S-E-5A
+0047;0;idaho state flower coloring page;18;0;THCIB-S-E-5A
+0047;0;information idaho's state flower;19;0;THCIB-S-E-5A
+0047;0;idaho flower or state;20;0;THCIB-S-E-5A
+0047;0;pictures of the idaho state flower;21;0;THCIB-S-E-5A
+0047;0;state bird and flower of idaho;22;0;THCIB-S-E-5A
+0047;0;facts state flower idaho;23;0;THCIB-S-E-5A
+0047;0;state flower for idaho;24;0;THCIB-S-E-5A
+0047;0;idaho state flower bird;25;0;THCIB-S-E-5A
+0047;0;state idaho flower picture;26;0;THCIB-S-E-5A
+0047;0;bird and flower idaho state symbols;27;0;THCIB-S-E-5A
+0047;0;home > facts> state flowers> idaho;28;0;THCIB-S-E-5A
+0047;0;state flower in idaho;29;0;THCIB-S-E-5A
+0047;0;idaho state bird flower;30;0;THCIB-S-E-5A
+0047;0;picture state flower idaho;31;0;THCIB-S-E-5A
+0047;0;idaho state bird and flower;32;0;THCIB-S-E-5A
+0047;0;idaho state flower: syringa (mock orange) - shg resources;33;0;THCIB-S-E-5A
+0047;0;state flower of idaho syringa;34;0;THCIB-S-E-5A
+0047;0;idaho state tree flower;35;0;THCIB-S-E-5A
+0047;0;what is idaho state flower - ask community;36;0;THCIB-S-E-5A
+0047;0;idaho state flower and state bird - american meadows;37;0;THCIB-S-E-5A
+0047;0;syringa idaho state flower;38;0;THCIB-S-E-5A
+0047;0;what color is the state flower in idaho;39;0;THCIB-S-E-5A
+0047;0;idaho state flower - 50states.com;40;0;THCIB-S-E-5A
+0047;0;syringa flower idaho state;41;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds indianapolis;01;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds coliseum;02;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds map;03;0;THCIB-S-E-5A
+0048;0;indiana state fair;04;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds schedule;05;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds address;06;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds stage collapse;07;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds events;08;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds event calendar;09;0;THCIB-S-E-5A
+0048;0;myindytoday - indiana state fairgrounds;10;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds camping;11;0;THCIB-S-E-5A
+0048;0;hotels near indiana state fairgrounds;12;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds dog show;13;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds pepsi coliseum;14;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds job fair;15;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds garage sale;16;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds entertainment;17;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds concerts;18;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds calendar 2012;19;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds campground;20;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds train show;21;0;THCIB-S-E-5A
+0048;0;the barn at the indiana state fairgrounds;22;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds flea market;23;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds 1202 e 38th st;24;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds hoosier 100;25;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds calendar;26;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds tickets - gotickets.com;27;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds liquidation sale;28;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds gun show;29;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds ice skating;30;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds jobs;31;0;THCIB-S-E-5A
+0048;0;popular job fair thursday at indiana state fairgrounds;32;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds competitions;33;0;THCIB-S-E-5A
+0048;0;what is the indiana state fairgrounds address;34;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds famous visitors;35;0;THCIB-S-E-5A
+0048;0;bridal show 2007 indiana state fairgrounds;36;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds calendar of events;37;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds - lodging - uptake.com;38;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds campground indianapolis;39;0;THCIB-S-E-5A
+0048;0;restaurants near indiana state fairgrounds, indianapolis;40;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds blue ribbon pavilion;41;0;THCIB-S-E-5A
+0048;0;indiana state fairgrounds 1963 coliseum explosion;42;0;THCIB-S-E-5A
+0049;0;fybromyalgia meds;01;0;THCIB-S-E-5A
+0049;0;fibromyalgia;02;0;THCIB-S-E-5A
+0049;0;fybromyalgia treatment;03;0;THCIB-S-E-5A
+0049;0;fibromyalgia uk;04;0;THCIB-S-E-5A
+0049;0;fybromyalgia and humidity;05;0;THCIB-S-E-5A
+0049;0;fybromyalgia physical treatments;06;0;THCIB-S-E-5A
+0049;0;fybromyalgia genetic predisposition;07;0;THCIB-S-E-5A
+0049;0;fybromyalgiarhuematica;08;0;THCIB-S-E-5A
+0049;0;fybromyalgia tre grice fdns net;09;0;THCIB-S-E-5A
+0049;0;i have had fybromyalgia for 12 years now;10;0;THCIB-S-E-5A
+0049;0;fybromyalgia disability guidelines;11;0;THCIB-S-E-5A
+0049;0;fibromyalgia chat room;12;0;THCIB-S-E-5A
+0049;0;national chronic fatigue syndrome and fybromyalgia association;13;0;THCIB-S-E-5A
+0049;0;fybromyalgia physical trauma;14;0;THCIB-S-E-5A
+0049;0;fybromyalgia stress;15;0;THCIB-S-E-5A
+0049;0;fybromyalgia history;16;0;THCIB-S-E-5A
+0049;0;fybromyalgia costs of fibromyalgia;17;0;THCIB-S-E-5A
+0049;0;fybromyalgia forum;18;0;THCIB-S-E-5A
+0049;0;me fatigue pvfs cfs and fybromyalgia;19;0;THCIB-S-E-5A
+0049;0;treatments for fybromyalgia benzodiazepines;20;0;THCIB-S-E-5A
+0049;0;fybromyalgia antidepressants;21;0;THCIB-S-E-5A
+0049;0;fybromyalgia signs and symptoms;22;0;THCIB-S-E-5A
+0049;0;fybromyalgia brain imaging studies;23;0;THCIB-S-E-5A
+0049;0;free online lectronic bi pl fybromyalgia;24;0;THCIB-S-E-5A
+0049;0;dr michael rosenbaum on treating cfs and fybromyalgia;25;0;THCIB-S-E-5A
+0049;0;treatments for fybromyalgia sleeping pills;26;0;THCIB-S-E-5A
+0049;0;fybromyalgia causation hypotheses;27;0;THCIB-S-E-5A
+0049;0;fybromyalgia adenosine monophosphate deaminase deficiency type 1;28;0;THCIB-S-E-5A
+0049;0;fybromyalgia investigational medications;29;0;THCIB-S-E-5A
+0049;0;how is fibromyalgia diagnosed;30;0;THCIB-S-E-5A
+0049;0;fybromyalgia support group;31;0;THCIB-S-E-5A
+0049;0;fybromyalgia and zoloft from certified pharmacy;32;0;THCIB-S-E-5A
+0049;0;treatments for fybromyalgia massage therapy;33;0;THCIB-S-E-5A
+0049;0;fybromyalgia diagnosis;34;0;THCIB-S-E-5A
+0049;0;fibromyalgia pain;35;0;THCIB-S-E-5A
+0049;0;fybromyalgia combination therapy;36;0;THCIB-S-E-5A
+0049;0;symptoms of fibromyalgia;37;0;THCIB-S-E-5A
+0049;0;friends international support chronic pain fatigue syndrome and fybromyalgia;38;0;THCIB-S-E-5A
+0050;0;ontario california international airport;01;0;THCIB-S-E-5A
+0050;0;ontario california airport hotel;02;0;THCIB-S-E-5A
+0050;0;ontario california airport parking;03;0;THCIB-S-E-5A
+0050;0;ontario california airport map;04;0;THCIB-S-E-5A
+0050;0;ontario california airport car rental;05;0;THCIB-S-E-5A
+0050;0;ontario california airport code;06;0;THCIB-S-E-5A
+0050;0;ontario california airport shuttles;07;0;THCIB-S-E-5A
+0050;0;ontario california airport and the issue of control;08;0;THCIB-S-E-5A
+0050;0;airport code of ontario california;09;0;THCIB-S-E-5A
+0050;0;ontario california airport jobs;10;0;THCIB-S-E-5A
+0050;0;ontario california airport address;11;0;THCIB-S-E-5A
+0050;0;airport shuttle service ontario california;12;0;THCIB-S-E-5A
+0050;0;airport ontario california map;13;0;THCIB-S-E-5A
+0050;0;rental cars airport ontario california;14;0;THCIB-S-E-5A
+0050;0;airport in ontario california code;15;0;THCIB-S-E-5A
+0050;0;ontario california airport airlines;16;0;THCIB-S-E-5A
+0050;0;hotels at ontario california airport;17;0;THCIB-S-E-5A
+0050;0;ontario california airport employment;18;0;THCIB-S-E-5A
+0050;0;airport code for ontario california;19;0;THCIB-S-E-5A
+0050;0;hotels near airport in ontario california;20;0;THCIB-S-E-5A
+0050;0;sheraton airport ontario california;21;0;THCIB-S-E-5A
+0050;0;ontario california airport transportation;22;0;THCIB-S-E-5A
+0050;0;marriott airport ontario california;23;0;THCIB-S-E-5A
+0050;0;airport ontario california code;24;0;THCIB-S-E-5A
+0050;0;quality inn airport ontario california;25;0;THCIB-S-E-5A
+0050;0;ontario california airport departures;26;0;THCIB-S-E-5A
+0050;0;thrifty ontario california airport;27;0;THCIB-S-E-5A
+0050;0;ontario california airport information;28;0;THCIB-S-E-5A
+0050;0;airport ontario california long term parking;29;0;THCIB-S-E-5A
+0050;0;view conditions at ontario international airport ont ontario california;30;0;THCIB-S-E-5A
+0050;0;ontario california international airport san bernardino county;31;0;THCIB-S-E-5A
+0050;0;hilton ontario airport hotel in ontario california;32;0;THCIB-S-E-5A
+0050;0;ontario intl. airport hotels in ontario, california;33;0;THCIB-S-E-5A
+0050;0;ontario california self storage | airport super storage;34;0;THCIB-S-E-5A
+0050;0;airport at ontario california;35;0;THCIB-S-E-5A
+0050;0;hotel near ontario ca airport, ontario california airport hotel.;36;0;THCIB-S-E-5A
+0050;0;airport for ontario california;37;0;THCIB-S-E-5A
+0050;0;ontario california hotel - ramada ontario airport;38;0;THCIB-S-E-5A
+0050;0;airport of ontario california;39;0;THCIB-S-E-5A
+0050;0;marriott ontario airport in ontario california;40;0;THCIB-S-E-5A
+0050;0;ups airport ontario california;41;0;THCIB-S-E-5A
